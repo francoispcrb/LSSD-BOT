@@ -58,4 +58,4 @@ Client.buttons = require('./interactions/buttons');
 Client.modals = require('./interactions/modals');
 
 require('dotenv').config()
-Client.login(process.env.TZ);
+Client.login(process.env.TOKEN);
