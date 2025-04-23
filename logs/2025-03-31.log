@@ -1,0 +1,328 @@
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-03-31T16:20:11.039Z [DEBUG] Hi !![49m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-03-31T16:20:12.878Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-03-31T16:20:11.039Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-03-31T16:20:14.327Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-03-31T16:20:14.328Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mopenservice[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-03-31T16:20:11.039Z [ERROR] (node:12464) Warning: Supplying "fetchReply" for interaction response options is deprecated. Utilize "withResponse" instead or fetch the response after using the method.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m✅ Données stockées : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m✅ Données écrites dans config.json : {[0m
+[0m    "messageId": "1356302344920498187",[0m
+[0m    "participants": {[0m
+[0m        "yes": [],[0m
+[0m        "no": [],[0m
+[0m        "maybe": [][0m
+[0m    }[0m
+[0m}[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[BUTTON] mathiieeuu a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mEn tête pour les rapports[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official Intervention Report from Los Santos Sherif Departement[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official statement from the `DIVISION`, `GRADE + NOM`.[39m[0m
+[0m[32m[39m[0m
+[0m[32mExemple : [39m[0m
+[0m[32m[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official Intervention Report from Los Santos Sherif Departement[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official statement from the Detective Division, Lieutenant Lennon.[39m[0m
+[0m[32m[39m[0m
+[0m[32mOU [39m[0m
+[0m[32m[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official Intervention Report from Los Santos Sherif Departement[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official statement from the Sherif Headquarters, Commander Cortez.[39m [0m[0mdans[0m[0m [32mEn-tête des messages[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m(Copie Plain Text)[39m [0m[0mdans[0m[0m [32mEn-tête des messages[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mrecruit[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m275 | Dpt. Jackson Storm a été recruté au sein du LSSD avec les rôles [object Object][39m[0m
+[41m2025-03-31T16:20:11.039Z [ERROR] (node:12464) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@729389796270800948>[39m [0m[0mdans[0m[0m [32m📌-hiérarchie[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[BUTTON] mrbobolt a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmrbobolt[39m [0m[0ma envoyé[0m[0m [32m@everyone[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmrbobolt[39m [0m[0ma supprimé[0m[0m [32m@everyone[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : no[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[BUTTON] octavio1633 a exécuté l'interaction bouton no dans 1347963262892904469[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : no[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[BUTTON] charlingus a exécuté l'interaction bouton no dans 1347963262892904469[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mRapport d'Intervention - Sergent Matthew Lewis[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de l'Intervention : 31 mars 2025[39m[0m
+[0m[32mHeure de l'incident : 18h15[39m[0m
+[0m[32mLieu de l'incident : Bloc 200[39m[0m
+[0m[32mAgent impliqué : Sergent Matthew Lewis, Sheriff Rodriguez DaSilva.[39m[0m
+[0m[32m[39m[0m
+[0m[32mDétails de l'incident :[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31 mars 2025, le sergent Lewis et le sheriff DaSilva sont en patrouille sur Pillbox Hill. Ils arrivent au bloc 200 on ils aperçoivent un fourgon blindé du gruppe 6 arrêté au centre de la route avec un agent de sécurité en dehors du camion au niveau de la porte conducteur armé d'un fusil d'assaut AR15. Les deux effectifs se place derrière le camion avec leurs véhicules afin de sécuriser les lieux et d'éviter tout accident. Ils sortent de leurs véhicules se dirigent vers l'agent armé afin de connaitre rasion pour laquelle il se trouve arrêté au milieu de la route. A ce moment là un véhicule type sedan de couleur rouge fonce sur l'agent de sécurité et prend la fuite. L'agent se relève est commence à tiré sur les deux sheriff avec son AR15. Le sergent et le sheriff sortent l...[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mConclusion :[39m[0m
+[0m[32m[39m[0m
+[0m[32mSuspect décédé, DaSilva touché au torse (paré par le gpb) et une dans la cuisse, Lewis touché bras droit, véhicule SH145 et SH667 impacté par les balle du suspect.[39m[0m
+[0m[32m[39m[0m
+[0m[32mSergent Matthew Lewis[39m[0m
+[0m[32mLSSD[39m[0m
+[0m[32m29/03/25[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mInformations Complémentaires : [39m[0m
+[0m[32m> Nombre de cartouche utilisé par nos hommes[39m[0m
+[0m[32m> - 6 cartouches utilisés par le Sgt. Lewis.[39m[0m
+[0m[32m> - 4 cartouches utilisés par le Shf.  DaSilva.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> L'homme a visé les hommes Shérif[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous le photos de l'individu[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous le photos du véhicules du sergent Lewis.[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous les photos du fourgon du gruppe6.[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Fusillade du 31/03 18h15 BLOC 200[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Fusillade du 31/03 18h15 BLOC 200[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[BUTTON] .darkodin92 a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T16:20:11.039Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous une photo de ce qui étaient présent dans le coffre du fourgon gruppe6.[39m [0m[0mdans[0m[0m [32mFusillade du 31/03 18h15 BLOC 200[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-03-31T17:20:06.901Z [DEBUG] Hi !![49m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-03-31T17:20:07.740Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-03-31T17:20:06.901Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-03-31T17:20:09.055Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-03-31T17:20:09.055Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[BUTTON] rory.p71 a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356302344920498187[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[BUTTON] matharcane a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mAux alentours de 19h35, j'étais en patrouille dans mon véhicule sérigraphié LSSD. Alors que j'étais face à la place des Cubbs côté sud ouest, j'ai fait face à deux motards en motos de style Harley Davidson allant vers le sud à une vitesse de plus de 140 km/h au radar avant. j'ai fait demi tour et ai activé mes signaux lumineux et sonores.[39m[0m
+[0m[32mLes motards se sont séparés instantanément, l'un allant vers l'est, l'autre vers le sud via Davis. J'ai poursuivit le motard allant vers Davis. Autours de l'intersection avec Davis Ave, j'ai 10-50 avec un véhicule qui m'a coupé la priorité malgré une visibilité optimale (distorsion spatio-temporelle) , me causant des dégâts mineurs. Il m'a été dur de continué la poursuite et 287 Adam a prit la position de 1er sur poursuite.[39m[0m
+[0m[32m[39m[0m
+[0m[32mAprès une minute, 287 A informe que le biker s'est clôt dans la base des S.O.A (postal 65). J'y suis arrivé plusieurs minutes après à cause des dégats de mon véhicule. L'homme y était, et sont arrivés 2 de ces amis dont le présumé 2nd biker et une fem...[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 21/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite et Lutte 31/03[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 21/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mIdentité de la personne : [39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : homme[39m[0m
+[0m[32mNom : Ouille[39m[0m
+[0m[32mPrénom : Patrick[39m[0m
+[0m[32mSituation familiale : aucune [39m[0m
+[0m[32mNationalité : français [39m[0m
+[0m[32m[39m[0m
+[0m[32mInformation de naissance : [39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 2/03/1999[39m[0m
+[0m[32mCommune de naissance et code postale : Maubeuge[39m[0m
+[0m[32mPays de naissance : Belgique[39m[0m
+[0m[32mRésidence : SDF[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mInformation supplémentaire :  [39m[0m
+[0m[32m[39m[0m
+[0m[32mProfession : Chômage [39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mInterrogatoire :[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer?[39m[0m
+[0m[32mRéponse - J'étais entrain de rouler en moto, j'étais à 100kmh en ville, j'ai vu les flics faire demie tour avec leurs gyrophare, il on ensuite fait un grave accident, j'ai continuer à rouler. Je me suis rendu au club SOA bloc 66, là où les sheriff sont rentré de force. J'ai étais tazé puis mis contre un mur afin d'être fouiller.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'op ?[39m[0m
+[0m[32mRéponse - Oui.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - j'étais à l'intérieur du bâtiment je ne suis pas concerné pas cela.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à la justice ?[39m[0m
+[0m[32mRéponse - oui.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Pou...[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mIdentité de la personne : [39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : homme[39m[0m
+[0m[32mNom : Wiolet[39m[0m
+[0m[32mPrénom : Aiko[39m[0m
+[0m[32mSituation familiale : aucune [39m[0m
+[0m[32mNationalité : française[39m[0m
+[0m[32m[39m[0m
+[0m[32mInformation de naissance : [39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 26/04/2000[39m[0m
+[0m[32mCommune de naissance et code postale : Nancy[39m[0m
+[0m[32mPays de naissance : France[39m[0m
+[0m[32mRésidence : Los Santos[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mInformation supplémentaire :  [39m[0m
+[0m[32m[39m[0m
+[0m[32mProfession : Serveuse au BarBiker.[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mInterrogatoire :[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer ?[39m[0m
+[0m[32mRéponse - Je vous est vue rentré chez nous, tazer nos collègues, j'ai frapper un agent, je me suis fait tazer, on nous a mis sur le coté, dos au murs afin d'être fouiller mais j'ai refusé d'être fouiller par un homme. je suis parties en courant et me suis faites rattraper par les sheriff qui mon une nouvelle fois tazée. On m'a mis contre un murs pour être fouiller, j'ai était fouiller par un agent masculin.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'op ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - Je n'ai pas refusé, on ne ma juste pas demander.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion...[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite et Lutte 31/03[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite et Lutte 31/03[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite et Lutte 31/03[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mJe peux confirmer que mon radar avant a récupéré une vitesse au delà des 140 kmh lorsque la moto s'éloignait de moi ("front, away"). Il est aussi notable que j'ai requis à multiple reprises l'ouverture de la porte, sans résultats.[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mtoutes les pièces sont présentes ici ?[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mMa dashcam n'a pas enregistré à cause de l'accident qui l'a fait facer le tableau de bord.[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mrory.p71[39m [0m[0ma supprimé[0m[0m [32mMa dashcam n'a pas enregistré à cause de l'accident qui l'a fait facer le tableau de bord.[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32mtoutes les pièces sont présentes ici ?[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mrory.p71[39m [0m[0ma supprimé[0m[0m [32mJe peux confirmer que mon radar avant a récupéré une vitesse au delà des 140 kmh lorsque la moto s'éloignait de moi ("front, away"). Il est aussi notable que j'ai requis à multiple reprises l'ouverture de la porte, sans résultats.[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m## ** <:lssd:1348069462317990028> Avis De recherche <:lssd:1348069462317990028> **[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31 mars 2025, M.Téo Santos s'est échappé de l'hôpital là où il devait être arrêté par le LSSD.[39m[0m
+[0m[32m[39m[0m
+[0m[32mTéo Santos, poursuivi pour refus d'obtempéré, agression, séquestration et obstruction à la justice. Il pourrai potentiellement mettre en danger la vie de noc concitoyens et de nos agents de police.[39m[0m
+[0m[32m[39m[0m
+[0m[32mA l'attention de tout les effectifs du __LSSD__ et du __LSPD__.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# Sgt. <@729389796270800948>[39m [0m[0mdans[0m[0m [32m🕵-avis-de-recherche[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m## ** <:lssd:1348069462317990028> Avis De recherche <:lssd:1348069462317990028> **[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31 mars 2025, M.Téo Santos s'est échappé de l'hôpital là où il devait être arrêté par le LSSD.[39m[0m
+[0m[32m[39m[0m
+[0m[32mTéo Santos, poursuivi pour refus d'obtempéré, agression, séquestration et obstruction à la justice. Il pourrai potentiellement mettre en danger la vie de noc concitoyens et de nos agents de police.[39m[0m
+[0m[32m[39m[0m
+[0m[32mA l'attention de tout les effectifs du __LSSD__ et du __LSPD__.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# Sgt. <@729389796270800948>[39m [0m[0mdans[0m[0m [32m🕵-avis-de-recherche[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m## ** <:lssd:1348069462317990028> Avis De recherche <:lssd:1348069462317990028> **[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31 mars 2025, M.Téo Santos s'est échappé de l'hôpital là où il devait être arrêté par le LSSD.[39m[0m
+[0m[32m[39m[0m
+[0m[32mTéo Santos, poursuivi pour refus d'obtempéré, agression, séquestration et obstruction à la justice. Il pourrai potentiellement mettre en danger la vie de noc concitoyens et de nos agents de police.[39m[0m
+[0m[32m[39m[0m
+[0m[32mCi dessous une photo montrant Téo Santos.[39m[0m
+[0m[32m[39m[0m
+[0m[32mA l'attention de tout les effectifs du __LSSD__ et du __LSPD__.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# Sgt. <@729389796270800948>[39m [0m[0mdans[0m[0m [32m🕵-avis-de-recherche[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m@here[39m [0m[0mdans[0m[0m [32m🕵-avis-de-recherche[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m@here[39m [0m[0mdans[0m[0m [32m🕵-avis-de-recherche[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mhttps://discord.com/channels/1252231195312259073/1254921231937962077/1356363548451930314 c'est lui qui est en charge de nos comptes avec le bennys, moyen d'entrer en contact avec lui via cette inerface[39m [0m[0mdans[0m[0m [32m🚔-watch-commandement[39m[0m
+[104m2025-03-31T17:20:06.901Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mOk ok[39m [0m[0mdans[0m[0m [32m🚔-watch-commandement[39m[0m

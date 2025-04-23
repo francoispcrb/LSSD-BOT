@@ -1,0 +1,338 @@
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-07T10:49:50.944Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-07T10:49:50.794Z [DEBUG] Hi !![49m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-07T10:49:50.946Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0mCommandes existantes :  checklog, viewdata, cleardata, requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-07T10:49:50.794Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-07T10:49:52.090Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-07T10:49:52.090Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mLes rapports sont l'essences de notre métier afin de permettre transparence et discipline.[39m[0m
+[0m[32mIl n'est donc pas l'ordre de la volonter mais de l'obligation.[39m[0m
+[0m[32m[39m[0m
+[0m[32mVoici comment rédiger un rapport.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Ouvrez ce lien Google Docs[39m[0m
+[0m[32m> - https://docs.google.com/document/d/1YimPZpfgvii1jdnJ5EkZ0asZI5-OeFVWLH1nAXtAmiA/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Dans ce fichier Google Docs, vous allez **créer une copie** et ensuite la nommer ainsi : **`SA-GOV/INTER_REPORT_DATE`**.[39m[0m
+[0m[32m> Vous modifierez ce qu'il y'a à modifier comme dit dans <#1343653295285207050>.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Dans la deuxième page, vous aller garder un en-tête similaire en les modifiants en conséquence de votre rapport (A l'attention de...).[39m[0m
+[0m[32m> Vous rédigerez ensuite un Procès Verbal de ce qu'il s'est passé sur place. Soyez précis. N'oubliez aucun détail, d'où l'importance de les faire rapidement après l'intervention.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> En cas d'arrestation, vous êtes dans l'obligation de rediger un PV d'audition de chaque suspect, et de mentionner les charges retenues contre lui.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Pour publier votre rap...[39m [0m[0mdans[0m[0m [32mRédiger un rapport[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the Sandy Shore Station, Lieutenant Lennon.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INDICATIF RADIO[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les officiers du <@&1259234502866108456>.*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Veuillez prendre connaissance de <#1343653295285207050> & <#1358756670234169354>.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Favorisez dans tous les cas un rapport écrit sur Google Docs.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Merci.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@449432156595552257>,[39m[0m
+[0m[32m-# 🇺🇸 Lieutenant of Los Santos Sherif Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Commander of LSSD' Detective Division[39m[0m
+[0m[32m-# <:IABavatar:1358757637772280001> Lieutenant of Internal Investigation Affairs[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📢-annonce[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m [0m[0mdans[0m[0m [32m🔴-iia[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# Succession des rappors concernant le Sergent Garcia[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mEnlevement James Garcia[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m🔴-iia[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m🔴-iia[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mFusillade du 06/04/25[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m**Fusillade SAO DEL PERRO 05/04 vers 23h**[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m**PO de Garcia le 04/04**[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m**Fusillade Hopital 06/04**[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m**Fusillade Hopital 17/03**[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1272253157577064478>[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1272253157577064478>[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mRapport de l'I.I.A.[39m[0m
+[0m[32m```[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mTOP SECRET : INTER INVEST AFFAIRS[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# **<:lssd:1348069462317990028>Hiérarchie au sein du Los Santos Sheriff Department<:lssd:1348069462317990028> **[39m[0m
+[0m[32m[39m[0m
+[0m[32m```[39m[0m
+[0m[32m                                                                     CORPS DE DIRECTION[39m[0m
+[0m[32m```[39m[0m
+[0m[32m> ## 87 | Shf. Rodriguez DaSilva. <:she:1342558210946633830> [39m[0m
+[0m[32m> • Shériff du **LSSD**.[39m[0m
+[0m[32m> • Responsable de la *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 31 | Ush. Ruben Bolt. <:ush:1342558193527689406> [39m[0m
+[0m[32m> • Undershériff du **LSSD**.[39m[0m
+[0m[32m> • Commander des *Internal Investigation Unit*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 28 | Acd. Marcus Cortez. <:major:1343283576598171679>﻿ [39m[0m
+[0m[32m> • Area Commander au **LSSD**.[39m[0m
+[0m[32m> • Commander de la *Gang Bureau*[39m[0m
+[0m[32m-# 3 effectifs du corps de direction.[39m[0m
+[0m[32m```[39m[0m
+[0m[32m                                                                     CORPS DE COMMANDEMENT[39m[0m
+[0m[32m```[39m[0m
+[0m[32m> ## 71 | Cpt. Rory Crowner. <:cpt:1342558232073469994> [39m[0m
+[0m[32m> • Capitaine du **LSSD**.[39m[0m
+[0m[32m> • Commander de la *K9 Bureau*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 93 | Lt. Sean Lennon. <:lt:1342558269482340494> [39m[0m
+[0m[32m> • Lieutenant du **LSSD**.[39m[0m
+[0m[32m> • Commander de la *Detective Bureau*[39m[0m
+[0m[32m> • Lieutenant des *Internal Investigation Unit...[39m [0m[0mdans[0m[0m [32m📌-hiérarchie[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32m                                                                     CORPS EXECUTIF[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 15 | Cpl. James Garcia. <:cpl:1342558343075463199>﻿ [39m[0m
+[0m[32m> • Corporal du **LSSD**.[39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m> • *Gang Bureau*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 28 | Cpl. Erica Sanchez.  <:cpl:1342558343075463199> [39m[0m
+[0m[32m> • Corporal au **LSSD**.[39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 88 | Cpl. Dran Martel <:cpl:1342558343075463199>  [39m[0m
+[0m[32m> • Corporal au **LSSD**. [39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 44 | Sdp. Tylor Collins. <:sdp:1343283046710906921> [39m[0m
+[0m[32m> • Senior Deputy au **LSSD**.[39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 44 | Sdp. Shane Walsh. <:sdp:1343283046710906921>﻿ [39m[0m
+[0m[32m> • Senior Deputy au **LSSD**.[39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 84 | Dpt. Bobby Sanchez. [39m[0m
+[0m[32m> • Deputy au **LSSD**.  [39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> ## 69 | Charlie Kowalewsky[39m[0m
+[0m[32m> • Deputy Cadet au **LSSD**.[39m[0m
+[0m[32m> • *Patrol Division*[39m[0m
+[0m[32m[39m[0m
+[0m[32m>  ## 75 | Jackson Storm[39m[0m
+[0m[32m>  • Deputy Cadet au **LSSD**.[39m[0m
+[0m[32m>  • *Patrol Division*[39m[0m
+[0m[32m-# 7 effectifs du corps exécutif.[39m[0m
+[0m[32m-# Au totale 15 effectifs du LSSD.[39m [0m[0mdans[0m[0m [32m📌-hiérarchie[39m[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📌-hiérarchie[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📌-hiérarchie[0m
+[104m2025-04-07T10:49:50.794Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📌-hiérarchie[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-07T13:39:36.819Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-07T13:39:36.738Z [DEBUG] Hi !![49m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-07T13:39:36.821Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0mCommandes existantes :  checklog, viewdata, cleardata, requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-07T13:39:36.738Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-07T13:39:38.076Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-07T13:39:38.076Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mpatrickouille[39m [0m[0ma envoyé[0m[0m [32mBonjour Patrick ouille je suis en cellule je vais me co se soir à 20h pour me faire retirer mais agrafe[39m [0m[0mdans[0m[0m [32m💬-discussion[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mBien pris.[39m [0m[0mdans[0m[0m [32m💬-discussion[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined patrickouille dans 💬-discussion[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1259234502866108456> besoin de 5 unités ce soir pour transport de prisonniers. Briefing vers 18h30[39m [0m[0mdans[0m[0m [32m💬-discussion-rp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined patrickouille dans 💬-discussion[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mbenhhz[39m [0m[0ma envoyé[0m[0m [32mslt je passerai surement se soir[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32m.darkodin92[39m [0m[0ma envoyé[0m[0m [32mcimer mon bg ^^[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous vous trouverez mon rapport d'intervention.[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous vous trouverez mon rapport d'intervention.[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32mCi-dessous vous trouverez mon rapport d'intervention.[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mPour les indicatifs : Grade > Unité[39m [0m[0mdans[0m[0m [32m🚔-watch-commandement[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite  + Fusillade 05/04/2025[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mEnlevement James Garcia 04/04/25[39m [0m[0mdans[0m[0m [32mEnlevement James Garcia[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mQue l'on soit bien clair, vous ne serez pas libéré après.[39m [0m[0mdans[0m[0m [32m💬-discussion[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mrename[39m [0m[0mdans[0m[0m [32mcmd-_asobrab_[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-07T13:39:36.738Z [ERROR] (node:24320) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32mCi-dessous vous trouverez mon rapport d'intervention.[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade 05/04/2025[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous vous trouverez mon rapport d'intervention.[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade 05/04/2025[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32m.darkodin92[39m [0m[0ma envoyé[0m[0m [32mon va arriver avec rory[39m [0m[0mdans[0m[0m [32m🗯 Général HRP[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mCi-dessous vous trouverez le procès verbal d'audition de OUILLE Patrick.[39m [0m[0mdans[0m[0m [32mDélit de fuite  + Fusillade 05/04/2025[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@194731603673481216> <@439425425131962368> <@755462095973122230> <@1195085032281346151> dispo ce soir pour un convoi de prisonnier[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32moctavio1633[39m [0m[0ma envoyé[0m[0m [32mJe suis au post peut pas[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mokay[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmatharcane[39m [0m[0ma envoyé[0m[0m [32mnon déso exams demain[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mpas de soucis[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mjulinox[39m [0m[0ma envoyé[0m[0m [32mNop desolé en plein de les travaille de champs et tout fin un bordel donc complique désolé[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mokay[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@655472798851923970> Après la scène de l'hôpital clairement WINRP pour les SOA, Nous, l'ensemble de l'équipe avons pris la décision de quitter le server.[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mban[39m [0m[0mdans[0m[0m [32m💬-discussion[39m[0m
+[104m2025-04-07T13:39:36.738Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-07T13:39:36.738Z [ERROR] Impossible d'envoyer un MP à l'utilisateur: TypeError [ColorConvert]: Unable to convert "RED" to a number.[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-07T19:32:52.716Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-07T19:32:52.064Z [DEBUG] Hi !![49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-07T19:32:52.717Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0mCommandes existantes :  checklog, viewdata, cleardata, requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-07T19:32:52.064Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-07T19:32:53.943Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-07T19:32:53.943Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32men vrai c'est dommage, la philosophie était cool :) les enquêtes qui dure etc... J'aimais bien perso mis à part les réflexions ahah[39m[0m
+[0m[32mj'aimerais bien qu'on se voit en voc :)[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m$[MEMBER REMOVE] alexduran78 est parti à function timeStamp() { [native code] }[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m$[MEMBER REMOVE] patrickouille est parti à function timeStamp() { [native code] }[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m$[MEMBER REMOVE] tilia.lh est parti à function timeStamp() { [native code] }[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m$[MEMBER REMOVE] marie76610. est parti à function timeStamp() { [native code] }[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m🛑 Fermeture de ticket demandée ![0m
+[41m2025-04-07T19:32:52.064Z [ERROR] (node:9324) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[42m[30m🔔2025-04-07T19:34:52.410Z [🟢 SOFT NOTIFY]  🗑️ [ACTION BUTTON] : Ticket supprimé avec succès.[39m[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton close_but dans 1356550748938436718[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mincident-17-mars[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m🛑 Fermeture de ticket demandée ![0m
+[42m[30m🔔2025-04-07T19:34:59.676Z [🟢 SOFT NOTIFY]  🗑️ [ACTION BUTTON] : Ticket supprimé avec succès.[39m[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton close_but dans 1353784617412329502[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mtemplate-convoq[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m🛑 Fermeture de ticket demandée ![0m
+[42m[30m🔔2025-04-07T19:35:07.626Z [🟢 SOFT NOTIFY]  🗑️ [ACTION BUTTON] : Ticket supprimé avec succès.[39m[49m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton close_but dans 1347635494221123676[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mdanlivingstone[39m [0m[0ma envoyé[0m[0m [32mBonsoir je n'ai pas tout suivi. Mais libre à vous. Bonne continuation à tous.[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mc'est justement pour ça que je souhaitais te parler directement[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mdanlivingstone[39m [0m[0ma envoyé[0m[0m [32mPersonnellement je ne m'occupe plus des relations avec les joueurs, et encore moins pour des problèmes en rp.  S'il est nécessaire d'en parler, le mieux c'est de passer par le staff, qui est là pour çà.[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnan mais c'était pour blablater on ne cherche pas de coupable etc... Après si tu ne veux pas nous parler y'a pas de soucis[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mle staff aide les SOA, en gros corrompu, donc nous préférons passer par le plus haut d'entre vous[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mmon aide tiens tjrs pour le dev[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mmute[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T19:32:52.064Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-07T20:49:51.081Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-07T20:49:50.463Z [DEBUG] Hi !![49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-07T20:49:51.084Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0mCommandes existantes :  checklog, viewdata, cleardata, requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-07T20:49:50.463Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-07T20:49:52.474Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-07T20:49:52.475Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mban[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-07T20:49:50.463Z [ERROR] Impossible d'envoyer un MP à l'utilisateur: DiscordAPIError[50007]: Cannot send messages to this user[49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[103m[31m[BAN ADD][39m[49m [31mdanlivingstone[39m [0m[0ma été banni à[0m[0m [32mnull[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m$[MEMBER REMOVE] danlivingstone est parti à function timeStamp() { [native code] }[0m
+[41m2025-04-07T20:49:50.463Z [ERROR] (node:44084) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m🛑 Fermeture de ticket demandée ![0m
+[42m[30m🔔2025-04-07T20:50:26.099Z [🟢 SOFT NOTIFY]  🗑️ [ACTION BUTTON] : Ticket supprimé avec succès.[39m[49m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton close_but dans 1354821969580916839[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mclear[39m [0m[0mdans[0m[0m [32m🛫-bienvenue[39m[0m
+[104m2025-04-07T20:49:50.463Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m

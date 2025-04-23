@@ -1,0 +1,1440 @@
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T08:39:11.346Z [DEBUG] Hi !![49m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T08:39:14.381Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T08:39:11.346Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T08:39:15.650Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T08:39:15.650Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the Sandy Shore Station, Lieutenant Lennon.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les officiers du <@&1259234502866108456>.*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Le Sergent <@729389796270800948> a entrepris un travail remarquable dans <#1355659412588593444> & <#1355693747702202612>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Dès lors, **chaque agent** ayant eu une intervention impliquant un individus quelqu'il soit ou un véhicule quelqu'il soit devra être renseigné dans les **`bases de données`** en plus des rapports dans <#1342662138111721482> que je rappel est **`OBLIGATOIRE`**[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@449432156595552257>,[39m[0m
+[0m[32m-# 🇺🇸 Lieutenant of Los Santos Sherif Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Commander of LSSD' Detective Division[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Sean Lennon.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mcmd-danlivingstone[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T08:39:11.346Z [ERROR] (node:13940) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[ACTION BUTTON] cmd of command /ticket has been used.[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m57[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton cmd dans 1252239174610718782[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[ACTION BUTTON] New channel create[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mcmd-francoispiano[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official intervention report of Los Santos Sherif Departement[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official Statement of Detective Division, Lieutenant Lennon[39m[0m
+[0m[32m[39m[0m
+[0m[32m## Rapport du Capitaine Crowner du 31/03[39m[0m
+[0m[32m[39m[0m
+[0m[32mAux alentours de 19h35, j'étais en patrouille dans mon véhicule sérigraphié LSSD. Alors que j'étais face à la place des Cubbs côté sud ouest, j'ai fait face à deux motards en motos de style Harley Davidson allant vers le sud à une vitesse de plus de 140 km/h au radar avant. j'ai fait demi tour et ai activé mes signaux lumineux et sonores.[39m[0m
+[0m[32mLes motards se sont séparés instantanément, l'un allant vers l'est, l'autre vers le sud via Davis. J'ai poursuivit le motard allant vers Davis. Autours de l'intersection avec Davis Ave, j'ai 10-50 avec un véhicule qui m'a coupé la priorité malgré une visibilité optimale (distorsion spatio-temporelle) , me causant des dégâts mineurs. Il m'a été dur de continué la poursuite et 287 Adam a prit la position de 1er sur poursuite.[39m[0m
+[0m[32m[39m[0m
+[0m[32mAprès une minute, 287 A in...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mAprès plusieurs minutes de lutte, 262 et 275 se sont présenté sur les lieux (en escaladant, la porte principale encore verrouillée derrière nous). Cela a calmé la situation. Le fuyard initial était au sol après de multiples coup de tazers en réponse à ses approches et menaces. Peu avant la tempête, la femme a tenté de fuir la scène par l'est, mais elle fut rattrapée et tazée par 293 et moi même.[39m[0m
+[0m[32mJ'ai ensuite été contraint avec toute l'équipe de quitter la scène à cause de la tempête imminente.[39m[0m
+[0m[32m[39m[0m
+[0m[32mIl est essentiel de préciser que la situation aurait put être circonscrite au plus tôt si le conseil nous avait fournit des menottes.[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m**## Procès verbale d'audition par le Sgt. Lewis.**[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Homme[39m[0m
+[0m[32mNom : Ouille[39m[0m
+[0m[32mPrénom : Patrick[39m[0m
+[0m[32mNationalité : Belge[39m[0m
+[0m[32mProfession : Chômage [39m[0m
+[0m[32mRésidence : SDF[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 2/03/1999[39m[0m
+[0m[32mCommune de naissance : Maubeuge[39m[0m
+[0m[32mPays de naissance : Belgique[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Casier judiciaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Monsieur Patrick OUILLE, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce en 2 véhicule du Los Santos Sheriff Departement sérigraphié avec gyrophare et sirène.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personnes.[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32m**...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mRapport du Sergent Lewis du 31/03[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m**## Procès verbale d'audition**[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Femme[39m[0m
+[0m[32mNom : Wiolet[39m[0m
+[0m[32mPrénom : Aiko[39m[0m
+[0m[32mNationalité : Française[39m[0m
+[0m[32mProfession : Serveuse[39m[0m
+[0m[32mRésidence : Los Santos[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 26/04/2000[39m[0m
+[0m[32mCommune de naissance : Nancy[39m[0m
+[0m[32mPays de naissance : France[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Casier judiciaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m[39m[0m
+[0m[32mMadame WIOLET Aiko, [39m[0m
+[0m[32m[39m[0m
+[0m[32mA omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce en 2 véhicule du Los Santos Sheriff Departement sérigraphié avec gyrophare et sirène.[39m[0m
+[0m[32m[39m[0m
+[0m[32mA sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m[39m[0m
+[0m[32mA entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personnes.[39m[0m
+[0m[32m[39m[0m
+[0m[32mA comm...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mCharges portées à l'encontre des suspects.[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m**Mrs. Aiko Wiolet**[39m[0m
+[0m[32m> Charges retenues envers **Mrs. Wiolet** par le LSSD.[39m[0m
+[0m[32m> - Obstruction[39m[0m
+[0m[32m> - Séquestration[39m[0m
+[0m[32m> - Délit de fuite (pédestre)[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Condamnation envers **Mrs. Wiolet** par le LSSD.[39m[0m
+[0m[32m> - 210 000$ pour les charges retenues.[39m[0m
+[0m[32m> - Garde à vue d'une durée courte[39m[0m
+[0m[32m[39m[0m
+[0m[32m**Mrs. Patrick Ouille**[39m[0m
+[0m[32m> Charges retenues envers **Mr. Ouille** par le LSSD.[39m[0m
+[0m[32m> - Obstruction[39m[0m
+[0m[32m> - Séquestration[39m[0m
+[0m[32m> - Délit de fuite (véhicule)[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Condamnation envers **Mr. Ouille** par le LSSD.[39m[0m
+[0m[32m> - Garde à vue d'une durée longue (endormissement)[39m[0m
+[0m[32m> - *Prévue* : 210 000$.[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32m.darkodin92[39m [0m[0ma envoyé[0m[0m [32mLe 31/03, aux alentours de 19h30, nous avons été appelés par 271L pour un véhicule de type moto en refus d'obtempéré. Moi-même,  287A et 293, étions positionné au niveau du Lave auto, à proximité de Davis Bloc 134, donc j'étais rapidement deuxième sur la poursuite. J'ai pu voir l'unité 271L faire un 360, dont je n'explique toujours pas les circonstances. J'ai pris le lead de la poursuite jusqu'au bloc 65, au niveau du Club des Bikers.[39m[0m
+[0m[32m[39m[0m
+[0m[32m Arrivé sur place, nous avons rencontré de la résistance. Le responsable du Club des Bikers (Téo Santos) a fait plusieurs fois obstruction à la justice. Il a nous agresser à plusieurs reprises, donc j'ai dû faire usage de mon taser pour l'immobiliser. [39m[0m
+[0m[32m[39m[0m
+[0m[32mEn retour pour le défendre (Wiolet Aiko)  m'a agressé, elle m'a mis un coup de poing au visage, elle a donc était taser, pour notre propre sécurité vue sont agressivité.   [39m[0m
+[0m[32m[39m[0m
+[0m[32mÀ aucun moment, les suspects ont voulu obtempérer, donc c'était une situation assez compliquée. résultat 2 véhicules endommager par des coups de (Téo San...[39m [0m[0mdans[0m[0m [32mPoursuite et Agression 31/03[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite 31/03 (R2)[39m [0m[0mdans[0m[0m [32mPoursuite et Agression 31/03[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite (R1)[39m [0m[0mdans[0m[0m [32mDélit de fuite et Lutte 31/03[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite 31/03 (R1)[39m [0m[0mdans[0m[0m [32mDélit de fuite (R1)[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite / Refus Op 31/03 (R2)[39m [0m[0mdans[0m[0m [32mDélit de fuite 31/03 (R2)[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m [0m[0mdans[0m[0m [32mDélit de fuite 31/03 (R1)[39m[0m
+[104m2025-04-01T08:39:11.346Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined .darkodin92 dans Délit de fuite / Refus Op 31/03 (R2)[0m
+[104m2025-04-01T10:35:42.054Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:35:52.933Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:35:53.462Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:35:52.933Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:35:54.724Z [🟢 SOFT NOTIFY]  Arguments passés : clearcommand[39m[49m
+[42m[30m🔔2025-04-01T10:35:54.725Z [🟢 SOFT NOTIFY]  Le mode 'clearcommand' est activé.[39m[49m
+[104m2025-04-01T10:35:52.933Z [CLIENT DISCORD] [49m[0mToutes les commandes du serveur Los Santos Sheriff Dept. ont été supprimées.[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:35:59.145Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:35:59.224Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mCommandes existantes :  [0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mAucune commande trouvée. Enregistrement des commandes...[0m
+[104m2025-04-01T10:35:59.145Z [CLIENT DISCORD] [49m[0mListe des commandes chargées :  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21[0m
+[42m[30m🔔2025-04-01T10:36:00.836Z [🟢 SOFT NOTIFY]  ✅ Commandes enregistrées pour le serveur ![39m[49m
+[42m[30m🔔2025-04-01T10:36:00.836Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:36:00.837Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:36:04.040Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:36:04.117Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:36:04.040Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:36:05.377Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:36:05.377Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:36:04.040Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T10:36:04.040Z [ERROR] ❌ Erreur critique : TypeError: Cannot read properties of undefined (reading 'getString')[49m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:37:48.357Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:37:48.433Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:37:48.357Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:37:49.628Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:37:49.628Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:37:48.357Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T10:37:48.357Z [ERROR] ❌ Erreur lors de l'écriture dans ../config/database/veh.json.json : Error: ENOENT: no such file or directory, open 'E:\OneDrive\MyDocs\Developpment\Discord\config\database\veh.json.json'[49m
+[41m2025-04-01T10:37:48.357Z [ERROR] ❌ Erreur lors de l'écriture dans ../config/database/veh.json.json : Error: ENOENT: no such file or directory, open 'E:\OneDrive\MyDocs\Developpment\Discord\config\database\veh.json.json'[49m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:45:40.756Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:45:40.835Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:45:40.756Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:45:42.338Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:45:42.339Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:45:40.756Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T10:45:40.756Z [ERROR] ❌ Erreur critique : ReferenceError: veh is not defined[49m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:48:16.486Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:48:16.570Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:48:16.486Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:48:17.698Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:48:17.698Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T10:48:16.486Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:54:33.942Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:54:34.022Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:54:33.942Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:54:35.321Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:54:35.321Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:54:33.942Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T10:54:33.942Z [ERROR] ❌ Erreur critique : TypeError: vehdb[immat].remarque.push is not a function[49m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T10:55:28.804Z [DEBUG] Hi !![49m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T10:55:28.880Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T10:55:28.804Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T10:55:30.192Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T10:55:30.192Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mopenservice[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T10:55:28.804Z [ERROR] (node:21020) Warning: Supplying "fetchReply" for interaction response options is deprecated. Utilize "withResponse" instead or fetch the response after using the method.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m✅ Données stockées : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m✅ Données écrites dans config.json : {[0m
+[0m    "messageId": "1356588392023986356",[0m
+[0m    "participants": {[0m
+[0m        "yes": [],[0m
+[0m        "no": [],[0m
+[0m        "maybe": [][0m
+[0m    }[0m
+[0m}[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m@everyone[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m@everyone[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : maybe[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton maybe dans 1347963262892904469[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[BUTTON] .darkodin92 a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : maybe[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[BUTTON] rory.p71 a exécuté l'interaction bouton maybe dans 1347963262892904469[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[BUTTON] mrbobolt a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : maybe[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[BUTTON] matharcane a exécuté l'interaction bouton maybe dans 1347963262892904469[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@449432156595552257> c'est pas pour te faire chier mais délit de fuite et refus d'opbtempéré c'est pas la même chose ^^[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : no[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[BUTTON] charlingus a exécuté l'interaction bouton no dans 1347963262892904469[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32my'a eu les deux, j'ai simplifié mdrr[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mokk[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@449432156595552257> c'est pas pour te faire chier mais délit de fuite et refus d'opbtempéré c'est pas la même chose ^^[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32my'a eu les deux, j'ai simplifié mdrr[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T10:55:28.804Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32mokk[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T15:37:28.886Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:38:02.709Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:38:03.234Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:38:02.709Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:38:04.665Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:38:04.665Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m0[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m0[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m🤨[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mCharges portées à l'encontre des suspects.[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m**Mrs. Aiko Wiolet**[39m[0m
+[0m[32m> Charges retenues envers **Mrs. Wiolet** par le LSSD.[39m[0m
+[0m[32m> - Obstruction[39m[0m
+[0m[32m> - Séquestration[39m[0m
+[0m[32m> - Refus d'tempéré (pédestre)[39m[0m
+[0m[32m> - Outrage et ou rébellion sur un agent de l’état[39m[0m
+[0m[32m> - Violences volontaires ayant entrainé une ou pas d’ITT sur ou par un agent de l’état dans l’exercice de ses fonctions[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Condamnation envers **Mrs. Wiolet** par le LSSD.[39m[0m
+[0m[32m> - 210 000$ pour les charges retenues.[39m[0m
+[0m[32m> - Garde à vue d'une durée courte[39m[0m
+[0m[32m[39m[0m
+[0m[32m**Mrs. Patrick Ouille**[39m[0m
+[0m[32m> Charges retenues envers **Mr. Ouille** par le LSSD.[39m[0m
+[0m[32m> - Obstruction[39m[0m
+[0m[32m> - Séquestration[39m[0m
+[0m[32m> - Refus d'tempéré (véhicule)[39m[0m
+[0m[32m> - Mise en danger de la vie d’autrui par conducteur d’un véhicule[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Condamnation envers **Mr. Ouille** par le LSSD.[39m[0m
+[0m[32m> - Garde à vue d'une durée longue (endormissement)[39m[0m
+[0m[32m> - *Prévue* : 210 000$.[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mje teste des trucs mdr[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mabahaha je vois ça[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mlol mdr[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mle kangoooooo[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:38:02.709Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mKANGOOOO[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:43:57.743Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:43:57.819Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:43:57.743Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:43:59.019Z [🟢 SOFT NOTIFY]  Arguments passés : clearcommand[39m[49m
+[42m[30m🔔2025-04-01T15:43:59.020Z [🟢 SOFT NOTIFY]  Le mode 'clearcommand' est activé.[39m[49m
+[104m2025-04-01T15:43:57.743Z [CLIENT DISCORD] [49m[0mToutes les commandes du serveur Los Santos Sheriff Dept. ont été supprimées.[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:44:04.889Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:44:04.969Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mCommandes existantes :  [0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mAucune commande trouvée. Enregistrement des commandes...[0m
+[104m2025-04-01T15:44:04.889Z [CLIENT DISCORD] [49m[0mListe des commandes chargées :  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21[0m
+[42m[30m🔔2025-04-01T15:44:07.257Z [🟢 SOFT NOTIFY]  ✅ Commandes enregistrées pour le serveur ![39m[49m
+[42m[30m🔔2025-04-01T15:44:07.258Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:44:07.258Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:44:12.447Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:44:12.525Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:44:12.447Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:44:13.645Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:44:13.646Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mhttps://tenor.com/view/police-police-nationale-police-nationale-france-car-drive-gif-16626788[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mvraiment le premier gif dans "Police Nationale" 😂[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mmdrrr[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mon est entrain de rajouter quelque truc contre les mec qu'on a arreté hier[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32moui j'ai vu[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mgenre mise en danger de la vie d'autrui etc[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:44:12.447Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mpour refus d'op oui le mec, la meuf pas réellement[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:46:48.556Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:46:48.643Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:46:48.556Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:46:49.795Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:46:49.795Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mbah et a frappé darko et pris la fuite et a continuer ça route malgré les injonctions des effectif donc en sois c'est un refus d'op[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m✅ Fichier ./config/database/veh.json.json enregistré avec succès ![0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32moui refus d'op pour la meuf mais pas mise en danger[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:46:48.556Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mah ouais tkt[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:50:08.762Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:50:08.851Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:50:08.762Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:50:10.082Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:50:10.083Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mmathiieeuu[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[41m2025-04-01T15:50:08.762Z [ERROR] ⚠️ Erreur : Aucune permission définie pour la commande "register".[49m
+[41m2025-04-01T15:50:08.762Z [ERROR] (node:30912) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-01T15:50:08.762Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mça marche pas pour toi mdr j'ai pas encore tout config mdr[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-01T15:55:23.145Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:55:42.735Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:55:42.818Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:55:42.735Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:55:44.068Z [🟢 SOFT NOTIFY]  Arguments passés : clearcommand[39m[49m
+[42m[30m🔔2025-04-01T15:55:44.069Z [🟢 SOFT NOTIFY]  Le mode 'clearcommand' est activé.[39m[49m
+[104m2025-04-01T15:55:42.735Z [CLIENT DISCORD] [49m[0mToutes les commandes du serveur Los Santos Sheriff Dept. ont été supprimées.[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:55:48.094Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:55:48.175Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mCommandes existantes :  [0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mAucune commande trouvée. Enregistrement des commandes...[0m
+[104m2025-04-01T15:55:48.094Z [CLIENT DISCORD] [49m[0mListe des commandes chargées :  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21[0m
+[42m[30m🔔2025-04-01T15:55:49.765Z [🟢 SOFT NOTIFY]  ✅ Commandes enregistrées pour le serveur ![39m[49m
+[42m[30m🔔2025-04-01T15:55:49.767Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:55:49.768Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T15:55:55.729Z [DEBUG] Hi !![49m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T15:55:55.820Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T15:55:55.729Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T15:55:57.302Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T15:55:57.342Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-01T15:55:55.729Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T16:00:21.155Z [DEBUG] Hi !![49m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T16:00:21.241Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T16:00:21.155Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T16:00:23.544Z [🟢 SOFT NOTIFY]  Arguments passés : clearcommand[39m[49m
+[42m[30m🔔2025-04-01T16:00:23.545Z [🟢 SOFT NOTIFY]  Le mode 'clearcommand' est activé.[39m[49m
+[104m2025-04-01T16:00:21.155Z [CLIENT DISCORD] [49m[0mToutes les commandes du serveur Los Santos Sheriff Dept. ont été supprimées.[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T16:01:11.117Z [DEBUG] Hi !![49m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T16:01:11.195Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mCommandes existantes :  [0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mAucune commande trouvée. Enregistrement des commandes...[0m
+[104m2025-04-01T16:01:11.117Z [CLIENT DISCORD] [49m[0mListe des commandes chargées :  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21[0m
+[42m[30m🔔2025-04-01T16:01:13.014Z [🟢 SOFT NOTIFY]  ✅ Commandes enregistrées pour le serveur ![39m[49m
+[42m[30m🔔2025-04-01T16:01:13.015Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T16:01:13.017Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T16:02:26.477Z [DEBUG] Hi !![49m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T16:02:26.562Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T16:02:26.477Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T16:02:27.821Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T16:02:27.821Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-01T16:02:26.477Z [ERROR] (node:12648) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Homme[39m[0m
+[0m[32mNom : Ouille[39m[0m
+[0m[32mPrénom : Patrick[39m[0m
+[0m[32mNationalité : Belge[39m[0m
+[0m[32mProfession : Chômage [39m[0m
+[0m[32mRésidence : SDF[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 2/03/1999[39m[0m
+[0m[32mCommune de naissance : Maubeuge[39m[0m
+[0m[32mPays de naissance : Belgique[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Casier judiciaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Monsieur Patrick OUILLE, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce en 2 véhicule du Los Santos Sheriff Departement sérigraphié avec gyrophare et sirène.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personnes.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A exposé directement autrui, en l'espèce les usagers de la rou...[39m [0m[0mdans[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mInterrogatoire :[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer ?[39m[0m
+[0m[32mRéponse - J'ai vue rentré des sheriff, tazaient nos collègues, j'ai frapper un agent, je me suis faite tazée, on nous a mis sur le coté, dos au murs afin d'être fouiller mais j'ai refusé d'être fouiller par un homme. je suis parties en courant et me suis faites rattraper par les sheriff qui mon une nouvelle fois tazée. On m'a mis contre un murs pour être fouiller, j'ai était fouiller par un agent masculin.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'obtempéré ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - Je n'ai pas refusé, on ne ma juste pas demander.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à l'exercice de la justice ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'agression ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m [0m[0mdans[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite / Refus Op 31/03 (R1)[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite / Refus Op 31/03 (R1)[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m**__Interrogatoire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer ?[39m[0m
+[0m[32mRéponse - J'ai vue rentré des sheriff, tazaient nos collègues, j'ai frapper un agent, je me suis faite tazée, on nous a mis sur le coté, dos au murs afin d'être fouiller mais j'ai refusé d'être fouiller par un homme. je suis parties en courant et me suis faites rattraper par les sheriff qui mon une nouvelle fois tazée. On m'a mis contre un murs pour être fouiller, j'ai était fouiller par un agent masculin.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'obtempéré ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - Je n'ai pas refusé, on ne ma juste pas demander.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à l'exercice de la justice ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'agression ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m [0m[0mdans[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**__Interrogatoire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer?[39m[0m
+[0m[32mRéponse - J'étais entrain de rouler en moto, j'étais à 100kmh en ville, j'ai vu les flics faire demie tour avec leurs gyrophare, il on ensuite fait un grave accident, j'ai continuer à rouler. Je me suis rendu au club SOA bloc 66, là où les sheriff sont rentré de force. J'ai étais tazé puis mis contre un mur afin d'être fouiller.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'obtempéré ?[39m[0m
+[0m[32mRéponse - Oui.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - j'étais à l'intérieur du bâtiment je ne suis pas concerné pas cela.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à l'exercice de la justice ?[39m[0m
+[0m[32mRéponse - oui.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Pourquoi êtes vous armé ?[39m[0m
+[0m[32mRéponse - Pour ma protection.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# Fait le 31/03/25 à 21h20 par le sergent Matthew Lewis.[39m [0m[0mdans[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**## Procès verbale d'audition**[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Femme[39m[0m
+[0m[32mNom : Wiolet[39m[0m
+[0m[32mPrénom : Aiko[39m[0m
+[0m[32mNationalité : Française[39m[0m
+[0m[32mProfession : Serveuse[39m[0m
+[0m[32mRésidence : Los Santos[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 26/04/2000[39m[0m
+[0m[32mCommune de naissance : Nancy[39m[0m
+[0m[32mPays de naissance : France[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Casier judiciaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Madame WIOLET Aiko, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce en 3 agents du Los Santos Sheriff Departement.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personnes.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A commis volontairement des violences ayant entrainé ou pas une ITT ...[39m [0m[0mdans[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite / Refus Op 31/03 (R1)[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mInterrogatoire :[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer ?[39m[0m
+[0m[32mRéponse - J'ai vue rentré des sheriff, tazaient nos collègues, j'ai frapper un agent, je me suis faite tazée, on nous a mis sur le coté, dos au murs afin d'être fouiller mais j'ai refusé d'être fouiller par un homme. je suis parties en courant et me suis faites rattraper par les sheriff qui mon une nouvelle fois tazée. On m'a mis contre un murs pour être fouiller, j'ai était fouiller par un agent masculin.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'obtempéré ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - Je n'ai pas refusé, on ne ma juste pas demander.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à l'exercice de la justice ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'agression ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# Fait le 31/03/25 à 21h20 par le sergent Matthew Lewis.[39m [0m[0mdans[0m[0m [32mDélit de fuite / Refus Op 31/03 (R1)[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite / Refus Op 31/03 (R1)[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mSANTOS Téo[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mSANTOS Téo[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mWIOLET Aiko[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mWIOLET Aiko[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mOUILLE Patrick[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mOUILLE Patrick[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[BUTTON] danlivingstone a exécuté l'interaction bouton archive dans 1354821969580916839[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mProcès verbale d'audition fait par le Sergent Lewis le 31/03[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Femme[39m[0m
+[0m[32mNom : Wiolet[39m[0m
+[0m[32mPrénom : Aiko[39m[0m
+[0m[32mNationalité : Française[39m[0m
+[0m[32mProfession : Serveuse[39m[0m
+[0m[32mRésidence : Los Santos[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 26/04/2000[39m[0m
+[0m[32mCommune de naissance : Nancy[39m[0m
+[0m[32mPays de naissance : France[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Madame WIOLET Aiko, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce en 3 agents du Los Santos Sheriff Departement.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personnes.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A commis volontairement des violences ayant entrainé ou pas ...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**__Interrogatoire :__ **[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer ?[39m[0m
+[0m[32mRéponse - J'ai vue rentré des sheriff, tazaient nos collègues, j'ai frapper un agent, je me suis faite tazée, on nous a mis sur le coté, dos au murs afin d'être fouiller mais j'ai refusé d'être fouiller par un homme. je suis parties en courant et me suis faites rattraper par les sheriff qui mon une nouvelle fois tazée. On m'a mis contre un murs pour être fouiller, j'ai était fouiller par un agent masculin.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'obtempéré ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - Je n'ai pas refusé, on ne ma juste pas demander.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à l'exercice de la justice ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'agression ?[39m[0m
+[0m[32mRéponse - Oui, complétement.[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mProcès verbale d'audition fait par le Sergent Lewis le 31/03[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Homme[39m[0m
+[0m[32mNom : Ouille[39m[0m
+[0m[32mPrénom : Patrick[39m[0m
+[0m[32mNationalité : Belge[39m[0m
+[0m[32mProfession : Chômage [39m[0m
+[0m[32mRésidence : SDF[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : 2/03/1999[39m[0m
+[0m[32mCommune de naissance : Maubeuge[39m[0m
+[0m[32mPays de naissance : Belgique[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Casier judiciaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Monsieur Patrick OUILLE, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce en 2 véhicule du Los Santos Sheriff Departement sérigraphié avec gyrophare et sirène.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personne...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**__Interrogatoire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Que c'est il passer?[39m[0m
+[0m[32mRéponse - J'étais entrain de rouler en moto, j'étais à 100kmh en ville, j'ai vu les flics faire demie tour avec leurs gyrophare, il on ensuite fait un grave accident, j'ai continuer à rouler. Je me suis rendu au club SOA bloc 66, là où les sheriff sont rentré de force. J'ai étais tazé puis mis contre un mur afin d'être fouiller.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de refus d'obtempéré ?[39m[0m
+[0m[32mRéponse - Oui.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait de séquestration ?[39m[0m
+[0m[32mRéponse - j'étais à l'intérieur du bâtiment je ne suis pas concerné pas cela.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Reconnaissez vous les fait d'obstruction à l'exercice de la justice ?[39m[0m
+[0m[32mRéponse - oui.[39m[0m
+[0m[32m[39m[0m
+[0m[32mQuestion - Pourquoi êtes vous armé ?[39m[0m
+[0m[32mRéponse - Pour ma protection.[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mRapport du Sheriff DaSilva du 31/03[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03, aux alentours de 19h30, nous avons été appelés par 271L pour un véhicule de type moto en refus d'obtempéré. Moi-même,  287A et 293, étions positionné au niveau du Lave auto, à proximité de Davis Bloc 134, donc j'étais rapidement deuxième sur la poursuite. J'ai pu voir l'unité 271L faire un 360, dont je n'explique toujours pas les circonstances. J'ai pris le lead de la poursuite jusqu'au bloc 65, au niveau du Club des Bikers.[39m[0m
+[0m[32m[39m[0m
+[0m[32mArrivé sur place, nous avons rencontré de la résistance. Le responsable du Club des Bikers (Téo Santos) a fait plusieurs fois obstruction à la justice. Il a nous agresser à plusieurs reprises, donc j'ai dû faire usage de ma matraque pour l'immobiliser. [39m[0m
+[0m[32m[39m[0m
+[0m[32mEn retour pour le défendre (Wiolet Aiko)  m'a agressé, elle m'a mis un coup de poing au visage, elle a donc était taser, pour notre propre sécurité vue sont agressivité.   [39m[0m
+[0m[32m[39m[0m
+[0m[32mÀ aucun moment, les suspects ont voulu obtempérer, donc c'était une situation assez compliquée. résultat 2 ...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans Délit de fuite / Refus Op 31/03 (R1)[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[BUTTON] mathiieeuu a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mcoucou les filles[39m [0m[0mdans[0m[0m [32mPrésents - 4/1/2025[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@794334752165330964> on est en jeu[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : Homme[39m[0m
+[0m[32mNom : SANTOS[39m[0m
+[0m[32mPrénom : Téo[39m[0m
+[0m[32mNationalité : X[39m[0m
+[0m[32mProfession : X[39m[0m
+[0m[32mRésidence : X[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : X[39m[0m
+[0m[32mCommune de naissance : X[39m[0m
+[0m[32mPays de naissance : X[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe 31/03/2025,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Monsieur Téo SANTOS, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A omis sciemment d'obtempéré à une sommation de s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les infractions, et muni des insignes extérieurs et apparents de sa qualité, en l'espèce 5 agents du LSSD.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A sans ordre des autorités constituées et hors les cas prévus par la loi, arrêter, enlever, détenu ou séquestrer une personne.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A entraver volontairement l'arrivée de secours destinés à faire échapper une personne à un péril imminent ou à combattre un sinistre présentant un danger pour la sécurité des personnes.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A volontairement dégradé un véhicule ou un bien. (deux véhicules de sheriff du comté de Los Santos)[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> A commis volontairement des violences ayant entrainé ou pas une ITT sur un agent de l’état dans l...[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans delit-de-fuite-31-mars[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : maybe[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[BUTTON] julinox a exécuté l'interaction bouton maybe dans 1347963262892904469[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@754646844046311454> <@755462095973122230> vous êtes là ce soir ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mjulinox[39m [0m[0ma envoyé[0m[0m [32mJe ne pense pas[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mmathiieeuu[39m [0m[0ma éxécuté la commande [0m[0m [32mmusic[39m [0m[0mdans[0m[0m [32m🗯 Général[39m[0m
+[104m2025-04-01T16:02:26.477Z [CLIENT DISCORD] [49m[0m[32mLa commande music ne requiert pas de permission.[39m[0m
+[41m2025-04-01T16:02:26.477Z [ERROR] Erreur lors de la lecture de la musique: Error: Could not extract functions[49m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T18:02:59.087Z [DEBUG] Hi !![49m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T18:02:59.166Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T18:02:59.087Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T18:03:00.736Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T18:03:00.736Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T18:02:59.087Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mj'ai abandonné le projet de la commande music <@729389796270800948> je la ferais plus tard mdr[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-01T18:03:34.675Z [DEBUG] Hi !![49m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-01T18:03:34.754Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-01T18:03:34.675Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-01T18:03:35.991Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-01T18:03:35.991Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mokayy[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mtu viens ce soir ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mjsp j'ai plein de truc à reviser[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<:emoji_12:1047441247721226300>[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m🔴 Pas de clientData trouvé, utilisation de config ![0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1356588392023986356[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1356588392023986356[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[BUTTON] octavio1633 a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@439425425131962368>[39m [0m[0mdans[0m[0m [32mCode de la Route[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mCode de la Route[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@439425425131962368>[39m [0m[0mdans[0m[0m [32mCode de la Route[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32mCode de la Route[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mje v refaire ce putain de tableau des infractions de merde qu'il nous ont pondus[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mokay[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmrbobolt[39m [0m[0ma envoyé[0m[0m [32mtkt je m'en occupe[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mah bah j'suis en train tqt[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mj'ai un modèle[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mshiro1308[39m [0m[0ma envoyé[0m[0m [32mnope[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mSelon l'article 844 du code pénale californiens, pour procéder à une arrestation, un particulier, si l'infraction est un crime, et dans tous les cas un agent de la paix, peut briser la porte ou la fenêtre de la maison dans laquelle se trouve la personne à arrêter, ou dans laquelle il a des motifs raisonnables de croire qu'elle se trouve, après avoir demandé l'admission et expliqué le but pour lequel l'admission est souhaitée.[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m**__Information de base :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mSexe : X[39m[0m
+[0m[32mNom : X[39m[0m
+[0m[32mPrénom : X[39m[0m
+[0m[32mNationalité : X[39m[0m
+[0m[32mProfession : X[39m[0m
+[0m[32mRésidence : X[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information de naissance : __**[39m[0m
+[0m[32m[39m[0m
+[0m[32mDate de naissance : X[39m[0m
+[0m[32mCommune de naissance : X[39m[0m
+[0m[32mPays de naissance : X[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Casier judiciaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mLe jour/mois/année,[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Monsieur PRENOM NOM, [39m[0m
+[0m[32m> [39m[0m
+[0m[32m> FAIT QU'IL LUI SONT REPROCHE[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32m**__Information complémentaire :__**[39m[0m
+[0m[32m[39m[0m
+[0m[32mTitulaire du permis : PERMIS[39m[0m
+[0m[32m[39m[0m
+[0m[32mAvis de recherche : NON/OUI (PRECISER LES FAITS)[39m [0m[0mdans[0m[0m [32mPoste Exemple[39m[0m
+[104m2025-04-01T18:03:34.675Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mRAJOUTER PHOTO DU SUSPECT[39m [0m[0mdans[0m[0m [32mPoste Exemple[39m[0m

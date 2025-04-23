@@ -1,0 +1,86 @@
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-03-28T09:33:56.345Z [DEBUG] Hi !![49m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-03-28T09:33:58.285Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-03-28T09:33:56.345Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-03-28T09:33:59.505Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-03-28T09:33:59.506Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32menquete-lspd-victoria-davis[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mTicket ID 1353126552107356172 a été archivé dans la console.[0m
+[41m2025-03-28T09:33:56.345Z [ERROR] (node:19892) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mticket[39m [0m[0mdans[0m[0m [32menquete-lspd-victoria-davis[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0mTicket ID 1353126552107356172 a été archivé dans la console.[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# Ticket Archivé, ne pas supprimer[39m [0m[0mdans[0m[0m [32menquete-lspd-victoria-davis[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📤 For `Rodriguez DaSilva, Ben Bolt`[39m[0m
+[0m[32m📥 From `Sean Lennon`[39m[0m
+[0m[32m[39m[0m
+[0m[32m`OBJET` : **Rapport d'enquête & Incident 17 mars**[39m[0m
+[0m[32m[39m[0m
+[0m[32m<@767703415413014579> <@439425425131962368> [39m[0m
+[0m[32m[39m[0m
+[0m[32mBonjour,[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Mrs. Victoria Davis à retirer sa plainte. Les charges contre le LSPD sont donc abandonnée. Cependant, je préviendrais le procureur que nous allons procéder à l'arrestation de M. Durand pour Délit de fuite et faute grave.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Concernant l'indicent du 17 mars, le procureur a été convoqué pour éclaircir l'affaire. Les sanctions encourrues à l'encontre de nos agents sont un blâme versé au dossier.[39m[0m
+[0m[32m[39m[0m
+[0m[32mCordialement,[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Lieutenant Sean Lennon, Sandy Shore Station 1009th.[39m[0m
+[0m[32m> Commander of Detective Division, Paleto Station.[39m[0m
+[0m[32m> <@449432156595552257>.[39m [0m[0mdans[0m[0m [32mÀ **AFFAIRES INTERNES**[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32m.darkodin92[39m [0m[0ma envoyé[0m[0m [32mMerci beaucoup pour votre retour il est important de bien communiquer avec la LSPD et le procureur concernant les modalités d'arrestation de M. DURAND, je tien à être présent lors de sont arrestation.[39m[0m
+[0m[32m[39m[0m
+[0m[32mSheriff Rodriguez Dasilva [39m[0m
+[0m[32m[39m[0m
+[0m[32mHeadquarters[39m [0m[0mdans[0m[0m [32mÀ **AFFAIRES INTERNES**[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mLe  21/03/25, à 21h00, sur la route 12 (autoroute), Madame Victoria Davis, titulaire d’un permis de conduire valide, se trouvait à bord d’un véhicule appartenant à un ami lorsqu’elle a été percutée par un agent de la LSPD, Max Durand.[39m[0m
+[0m[32m[39m[0m
+[0m[32mMadame Davis a reconnu qu’elle roulait légèrement au-dessus de la limite autorisée au moment des faits. Toutefois, lors de l’arrivée  des services d’urgence, aucun véhicule n’a été constaté sur place.[39m[0m
+[0m[32m[39m[0m
+[0m[32mÀ 22h27, les services d’urgence (EMS) sont intervenus afin de lui porter assistance. Après évaluation médicale, il a été diagnostiqué chez la victime :[39m[0m
+[0m[32m[39m[0m
+[0m[32mUne fracture de la clavicule[39m[0m
+[0m[32mUne hémorragie interne[39m[0m
+[0m[32m[39m[0m
+[0m[32mMadame Victoria Davis exprime sa volonté de porter plainte contre l’agent Max Durand et demande des dommages et intérêts pour les préjudices subis.[39m [0m[0mdans[0m[0m [32menquete-lspd-victoria-davis[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32mLe  21/03/25, à 21h00, sur la route 12 (autoroute), Madame Victoria Davis, titulaire d’un permis de conduire valide, se trouvait à bord d’un véhicule appartenant à un ami lorsqu’elle a été percutée par un agent de la LSPD, Max Durand.[39m[0m
+[0m[32m[39m[0m
+[0m[32mMadame Davis a reconnu qu’elle roulait légèrement au-dessus de la limite autorisée au moment des faits. Toutefois, lors de l’arrivée  des services d’urgence, aucun véhicule n’a été constaté sur place.[39m[0m
+[0m[32m[39m[0m
+[0m[32mÀ 22h27, les services d’urgence (EMS) sont intervenus afin de lui porter assistance. Après évaluation médicale, il a été diagnostiqué chez la victime :[39m[0m
+[0m[32m[39m[0m
+[0m[32mUne fracture de la clavicule[39m[0m
+[0m[32mUne hémorragie interne[39m[0m
+[0m[32m[39m[0m
+[0m[32mMadame Victoria Davis exprime sa volonté de porter plainte contre l’agent Max Durand et demande des dommages et intérêts pour les préjudices subis.[39m [0m[0mdans[0m[0m [32menquete-lspd-victoria-davis[39m[0m
+[104m2025-03-28T09:33:56.345Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32menquete-lspd-victoria-davis[39m[0m

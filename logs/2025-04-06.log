@@ -1,0 +1,176 @@
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-06T09:58:30.561Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-06T09:58:30.245Z [DEBUG] Hi !![49m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-06T09:58:30.563Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0mCommandes existantes :  checklog, viewdata, cleardata, requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-06T09:58:30.245Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-06T09:58:33.148Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-06T09:58:33.149Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32menlevement James Garcia[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mEnlevement James Garcia[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📤 For `James Garcia`[39m[0m
+[0m[32m[39m[0m
+[0m[32m📥 From `Internal Affairs`[39m[0m
+[0m[32m[39m[0m
+[0m[32m📑 CC : `Rodriguez DaSilva, Sean Lennon, Ben Bolt`[39m[0m
+[0m[32m[39m[0m
+[0m[32m`OBJET` : **Notification de mise à pied**[39m[0m
+[0m[32m[39m[0m
+[0m[32m<@978315768271880272>, <@767703415413014579>, <@449432156595552257>, <@439425425131962368>[39m[0m
+[0m[32m[39m[0m
+[0m[32mMonsieur Garcia,[39m[0m
+[0m[32m[39m[0m
+[0m[32m> À la suite des évènements étant survenus ce matin **dimanche 6 avril, 01:00 UTC+2** qui viennent s'accumuler à l'incident au 17 mars, vous êtes officiellement mise à pied pour une durée indéterminée le temps de l'enquête que les <@&1272253157577064478> mèneront. Cette mesure est executive dès à présent.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Vous avez remis votre insigne et votre arme. Vous avez pour interdiction totale de quitter le conté de Los Santos et de vous présenter en tant qu'agent de police quelque soit les circonstances. Vous êtes dans l'obligation de répondre aux convocations du corps de commandement ou des affaires internes.[39m[0m
+[0m[32m> [39m[0m
+[0m[32m> Vous passerez devant la commission disciplinaire. [39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mCordialement,[39m[0m
+[0m[32m[39m[0m
+[0m[32m> <@&1272253157577064478>, <@449432156595552257>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@449432156595552257>,[39m[0m
+[0m[32m-...[39m [0m[0mdans[0m[0m [32mFrom Internal Affairs to James Garcia[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📥 James Garcia Mailbox[39m [0m[0mdans[0m[0m [32mFrom Internal Affairs to James Garcia[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> ENVOYER UN MAIL <:lssd:1348069462317990028> [39m[0m
+[0m[32m[39m[0m
+[0m[32mVous aller en haute à droite de Discord puis cliquer sur le bouton (comme sur la PJ).[39m[0m
+[0m[32m[39m[0m
+[0m[32mVous aller sectionner la / les personnes dont vous avez envie d'envoyer un mail.[39m[0m
+[0m[32m[39m[0m
+[0m[32mSi elle n'apparait pas, vous allez **Créer un Thread** et mettre comme nom du Thread **`📥 <Prénom Nom> Mailbox`**.[39m[0m
+[0m[32m[39m[0m
+[0m[32mSi vous voulez envoyer un mail à un corps ou à un groupe, mettez comme nom **`📥 <Groupe / Corps> Mailbox`** (Exemple : **`📥 Direction Mailbox`**.[39m [0m[0mdans[0m[0m [32m📥-mail[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📥-mail[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# 📥 Sean Lennon Mailbox begin here.[39m [0m[0mdans[0m[0m [32m📥 Sean Lennon Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# 📥 Detective Division Mailbox begin here.[39m [0m[0mdans[0m[0m [32m📥 Detective Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📥 Internal Affairs Mailbox begin here.[39m [0m[0mdans[0m[0m [32m📥 Internal Affairs Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📥 Internal Affairs Mailbox[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1272253157577064478>[39m [0m[0mdans[0m[0m [32m📥 Internal Affairs Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m📥 Internal Affairs Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1272253157577064478>[39m [0m[0mdans[0m[0m [32m📥 Internal Affairs Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1272252982750347414>[39m [0m[0mdans[0m[0m [32m📥 Detective Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1272252982750347414>[39m [0m[0mdans[0m[0m [32m📥 Detective Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📥 Traffic Division Mailbox[39m [0m[0mdans[0m[0m [32m📥-mail[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# 📥 Traffic Division Mailbox begin here.[39m [0m[0mdans[0m[0m [32m📥 Traffic Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m📥 Traffic Division Mailbox[39m [0m[0mdans[0m[0m [32m📥-mail[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1344727520309805118>[39m [0m[0mdans[0m[0m [32m📥 Traffic Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1344727520309805118>[39m [0m[0mdans[0m[0m [32m📥 Traffic Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1344727520309805118>[39m [0m[0mdans[0m[0m [32m📥 Traffic Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1344727520309805118>[39m [0m[0mdans[0m[0m [32m📥 Traffic Division Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📥 Direction Body Mailbox[39m [0m[0mdans[0m[0m [32m📥-mail[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# 📥 Direction Body Mailbox begin here.[39m [0m[0mdans[0m[0m [32m📥 Direction Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1342565895188254740>[39m [0m[0mdans[0m[0m [32m📥 Direction Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1342565895188254740>[39m [0m[0mdans[0m[0m [32m📥 Direction Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m📥 Direction Body Mailbox[39m [0m[0mdans[0m[0m [32m📥-mail[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1342565895188254740> Ajoutez à Marcus le rôle de Corps de Direction et retirer moi du Thread :)[39m [0m[0mdans[0m[0m [32m📥 Direction Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📥 Commandement Body Mailbox begin here.[39m [0m[0mdans[0m[0m [32m📥 Commandement Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@&1342563289338744872>[39m [0m[0mdans[0m[0m [32m📥 Commandement Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@&1342563289338744872>[39m [0m[0mdans[0m[0m [32m📥 Commandement Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m📥 Commandement Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmrbobolt[39m [0m[0ma envoyé[0m[0m [32m<@767703415413014579>[39m [0m[0mdans[0m[0m [32m📥 Direction Body Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[ACTION BUTTON] plainte of command /ticket has been used.[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m📩 Affichage du modal...[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton plainte dans 1252239174610718782[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mc'est pas moi qui le dit.....[39m[0m
+[0m[32mUse Car Radio During Pursuits[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32moctavio1633[39m [0m[0ma envoyé[0m[0m [32mQui pour voc?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📤 For `Howard Sullivan`[39m[0m
+[0m[32m[39m[0m
+[0m[32m📥 From `LSSD`[39m[0m
+[0m[32m[39m[0m
+[0m[32m`OBJET` : **Demande de RDV**[39m[0m
+[0m[32m[39m[0m
+[0m[32mMonsieur,[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Je vous prie de bien vouloir prendre note d'une demande de rendez vous de la part du Shérif.[39m[0m
+[0m[32m[39m[0m
+[0m[32mVoici les sujets abordés :[39m[0m
+[0m[32m> - Stats de la criminalité.[39m[0m
+[0m[32m> - Données immigrations[39m[0m
+[0m[32m> - Récents incident et attaques passées contre le LSSD.[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32mCordialement,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@449432156595552257>,[39m[0m
+[0m[32m-# 🇺🇸 Lieutenant of Los Santos Sherif Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Commander of LSSD' Detective Division[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Lieutenant of Internal Affairs.[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@655472798851923970>[39m [0m[0mdans[0m[0m [32mmail-gouverneur[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the Sandy Shore Station, Lieutenant Lennon.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INDICATIF RADIO[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les officiers du <@&1259234502866108456>.*[39m[0m
+[0m[32m[39m[0m
+[0m[32mAfin de clarifier les inficatifs radios, voici les nouveaux indicatifs :[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Patrouille seul : **`11-PATROL <Indicatif>`**[39m[0m
+[0m[32m> Patrouille à deux  : **`11-ADAM <Indicatif>`**[39m[0m
+[0m[32m> Patrouille de sergent : **`11-SERGENT <Indicatif>`**[39m[0m
+[0m[32m> Patrouille de superviseur : **`11-SAM <Indicatif>`** (Patrouille en qualité de Superviseur)[39m[0m
+[0m[32m> Patrouille de lieutenant : **`11-LIEUTENANT <Indicatif>`**[39m[0m
+[0m[32m> ﻿Patrouille de capitaine: **`11-CAPITAINE <Indicatif>`**[39m[0m
+[0m[32m> ﻿Patrouille de commandant : **`11-I <Indicatif>`**[39m[0m
+[0m[32m> ﻿﻿Patrouille de Sheriff / Undersheriff : **`11-V <Indicatif>`**[39m[0m
+[0m[32m﻿[39m[0m
+[0m[32mEn ce qui concerne les unitées, uniquement celles déployées utiliseront ces indicatifs :[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Unitée Gang Unit : **`GEORGE <Indicatif>`**[39m[0m
+[0m[32m> ﻿Unitée Detective: **`DAVID <Indicatif>`**[39m[0m
+[0m[32m> Unitée Aérienne : **`AIR <Indicatif>`*...[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mrory.p71[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m📤 For `James Garcia`[39m[0m
+[0m[32m[39m[0m
+[0m[32m📥 From `Internal Investigation Affairs`[39m[0m
+[0m[32m[39m[0m
+[0m[32m📑 CC : `Rodriguez DaSilva, Sean Lennon, Ben Bolt`[39m[0m
+[0m[32m[39m[0m
+[0m[32m`OBJET` : **Notification de sanction.**[39m[0m
+[0m[32m[39m[0m
+[0m[32m<@978315768271880272>, <@767703415413014579>, <@449432156595552257>, <@439425425131962368>[39m[0m
+[0m[32m[39m[0m
+[0m[32mMonsieur Garcia,[39m[0m
+[0m[32m[39m[0m
+[0m[32m> À la suite des évènements étant survenus ce matin **dimanche 6 avril, 01:00 UTC+2** qui viennent s'accumuler à l'incident au 17 mars, l'Internal Investigation Unit rendu son verdict.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> D'après l'expertise de l'IIU, vous n'avez pas exercer correctement les attentes d'un Sergent.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Compte tenu des récents évènements (Usage de l'arme non-proportionnée et comportement innaproprié nuisant à l'image du département),  les sanctions suivantes sont appliquées :[39m[0m
+[0m[32m> - Blâme définitf versé au dossier.[39m[0m
+[0m[32m> - Abaissement d'échelon (Sergent > Corporal)[39m[0m
+[0m[32m> - Radiation du tableau d'avancement pendant une durée de 1 an avec une réévaluation de vos compétences à 6 mois.[39m[0m
+[0m[32m[39m[0m
+[0m[32mConsidérez l'enquête interne comme clôse. [39m[0m
+[0m[32mL'enquête pénal reste cependant ouverte. Le dépar...[39m [0m[0mdans[0m[0m [32m📥 James Garcia Mailbox[39m[0m
+[104m2025-04-06T09:58:30.245Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📥 James Garcia Mailbox[0m

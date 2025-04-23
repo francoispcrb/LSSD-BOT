@@ -1,0 +1,57 @@
+{
+    "1361419753062666450": {
+        "users": [
+            "449432156595552257",
+            "1347944146496917505"
+        ],
+        "auth": "François 🌺",
+        "type": "cmd",
+        "ticketname": "refus dop lewis 100425",
+        "islock": false,
+        "isarchived": false,
+        "nb": 60
+    },
+    "1361419760067416135": {
+        "users": [
+            "449432156595552257",
+            "1347944146496917505"
+        ],
+        "auth": "François 🌺",
+        "type": "cmd",
+        "ticketname": "intimidation lewis 130425",
+        "islock": false,
+        "isarchived": true,
+        "nb": 61
+    },
+    "1361420528048672839": {
+        "users": [
+            "449432156595552257",
+            "1347944146496917505"
+        ],
+        "auth": "François 🌺",
+        "type": "cmd",
+        "ticketname": "cmd-francoispiano",
+        "islock": false,
+        "isarchived": false,
+        "nb": 62
+    },
+    "1361434640845373673": {
+        "users": [
+            "449432156595552257",
+            "1347944146496917505",
+            "1277723811776696342"
+        ],
+        "auth": "François 🌺",
+        "type": "cmd",
+        "ticketname": "cmd-francoispiano",
+        "islock": false,
+        "isarchived": false,
+        "nb": 63
+    },
+    "1361936952357818368": {
+        "users": [
+            "1347944146496917505"
+        ],
+        "type": "unknown"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "catherine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "François 🌺",
+  "license": "ISC",
+  "description": "The official bot of LSSD.",
+  "patchnote": [
+    "**[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.",
+    "\n**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.",
+    "\n**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations."
+  ],
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.8.3",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.18.0",
+    "fs": "^0.0.1-security",
+    "play-dl": "^1.9.7",
+    "yt-search": "^2.12.1",
+    "ytdl-core": "^4.11.5",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "version": "1.2.1 - 1.2.09scho",
+  "keywords": []
+}

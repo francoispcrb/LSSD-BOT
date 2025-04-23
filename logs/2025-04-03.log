@@ -1,0 +1,378 @@
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-03T16:41:25.840Z [DEBUG] Hi !![49m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-03T16:41:26.668Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-03T16:41:25.840Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-03T16:41:27.923Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-03T16:41:27.924Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m@here qui ce soir ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mpo moi[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@&1342565895188254740> <@&1342563289338744872> RDV à 21h au gouv pour rdv avec le proc[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mJe serais pas là[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mokay[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@439425425131962368> 21h au gouv oublie pas[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@978315768271880272> tu viens ce soir ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mvous y aller les sergents?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mc'est avec le proc ou le gouv ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 💬-discussion-hrp[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mles deux[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mmais il y a que drako donc je crois qu'il vaz me demendé d'y aller[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the , Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les <@&1252231826680975500>  du <@&1259234502866108456> .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@767703415413014579> ,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the , Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les <@&1252231826680975500>  du <@&1259234502866108456> .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@767703415413014579> ,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les <@&1252231826680975500>  du <@&1259234502866108456> .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@767703415413014579> ,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les <@&1252231826680975500>  du <@&1259234502866108456> .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m> (Changement visant uniquement les sergents avec formation superviseur)[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@767703415413014579> ,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mmathiieeuu[39m [0m[0ma supprimé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les <@&1252231826680975500>  du <@&1259234502866108456> .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m> (Changement visant uniquement les sergents avec formation superviseur)[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@767703415413014579> ,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mmini cooper roseapartenant àVicoria Davis imatriculé XTG 279[39m [0m[0mdans[0m[0m [32mVéhicules de Vicoria Davis[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined khalil35 dans Véhicules de Vicoria Davis[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@978315768271880272> <@729389796270800948> [39m[0m
+[0m[32m[39m[0m
+[0m[32mvous pouvez venir mais ils sont grave casse couille[39m [0m[0mdans[0m[0m [32m🗯 Général[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m[39m[0m
+[0m[32m*A l'attention de tous les agents du LSSD .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m> Ces changements n'affecte que les Superviseurs.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les sergents (sauf FTO) ne sont plus autorisés à faire Adam.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs des lieutenants [39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs [39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# ping dasilva,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32mlogs[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m[39m[0m
+[0m[32m*A l'attention de tous les agents du LSSD .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m> Ces changements n'affecte que les Superviseurs.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les sergents (sauf FTO) ne sont plus autorisés à faire Adam.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs des lieutenants [39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs [39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# ping dasilva,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32mlogs[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m[39m[0m
+[0m[32m*A l'attention de tous les agents du LSSD .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m> Ces changements n'affecte que les Superviseurs.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les sergents (sauf FTO) ne sont plus autorisés à faire Adam.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs des lieutenants [39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs [39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# ping dasilva,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32mbot-dev-test[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the headquarters, Sheriff DaSilva.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les <@&1252231826680975500>  du <@&1259234502866108456> .*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Les indicatifs de vos unités change. En cas de Lincoln vous changerez d'indicatif [000 Lincoln] à [000 Sam].[39m[0m
+[0m[32m[39m[0m
+[0m[32mBien à vous,[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@767703415413014579> ,[39m[0m
+[0m[32m-# 🇺🇸 Sheriff of Los Santos Sheriff Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> DASILVA Rodriguez.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the Sandy Shore Station, Lieutenant Lennon.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • INTRANET[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les officiers du <@&1259234502866108456>.*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Dans chaque rapport impliquant l'usage de l'arme à feu doit rendre compte d'un rapport indiquant quelles ont été les circonstances et combien de cartouches ont été tirée.[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@449432156595552257>,[39m[0m
+[0m[32m-# 🇺🇸 Lieutenant of Los Santos Sherif Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Commander of LSSD' Detective Division[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Sean Lennon.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📢-annonce[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mSpeedo noir apartenant à Will Gray imatriculé PSB 540[39m [0m[0mdans[0m[0m [32mVéhicules de Will Gray[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mnull[39m [0m[0mdans[0m[0m [32mRapport de Contravention du 03/04/25 à 22heures[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m```[39m[0m
+[0m[32mRapport d'intervention du <Grade Nom> du <Date> à <Heure>[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32mMettre le PDF.[39m[0m
+[0m[32m[39m[0m
+[0m[32m```[39m[0m
+[0m[32mCi-dessous les pièces à convictions (photo scène de crime)[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32mVous pouvez joindre une photo de meurtre, véhicules..., plan de la fusillade.[39m[0m
+[0m[32m[39m[0m
+[0m[32m```[39m[0m
+[0m[32mInfo Complémentaire :[39m[0m
+[0m[32m```[39m [0m[0mdans[0m[0m [32m📜 Exemple rapports Haute Intensitée[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Exemple rapports Haute Intensitée[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official statement from the Sandy Shore Station, Lieutenant Lennon.[39m[0m
+[0m[32m> ## NOTE DE SERVICE • RAPPORT D'INTERVENTION[39m[0m
+[0m[32m> ## Los Santos Sherif Departement[39m[0m
+[0m[32m*A l'attention de tous les officiers du <@&1259234502866108456>.*[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Afin de clarifier les rapports, les interventions à haute intensité doivent être plus précis.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Vous serez donc prier de remplir un rapport d'intervention telle quelle[39m[0m
+[0m[32m> - https://docs.google.com/document/d/1YimPZpfgvii1jdnJ5EkZ0asZI5-OeFVWLH1nAXtAmiA/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Vous modifier ce qu'il faut comme le template avec les dates... Puis exporter le en PDF pour l'envoyer sur Discord.[39m[0m
+[0m[32m[39m[0m
+[0m[32m> Retrouvez un exemple dans <#1357452643223736390>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m[39m[0m
+[0m[32m-# <@449432156595552257>,[39m[0m
+[0m[32m-# 🇺🇸 Lieutenant of Los Santos Sherif Dpt.[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Commander of LSSD' Detective Division[39m[0m
+[0m[32m-# <:lssd:1348069462317990028> Sean Lennon.[39m [0m[0mdans[0m[0m [32m📢-annonce[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> EXEMPLE DE RAPPORT D'INTERVENTION HAUTE INTENSITE <:lssd:1348069462317990028> [39m[0m
+[0m[32m[39m[0m
+[0m[32m```[39m[0m
+[0m[32mRapport d'intervention du <Grade Nom> du <Date> à <Heure>[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32mMettre le PDF.[39m[0m
+[0m[32m[39m[0m
+[0m[32m```[39m[0m
+[0m[32mCi-dessous les pièces à convictions (photo scène de crime)[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32mVous pouvez joindre une photo de meurtre, véhicules..., plan de la fusillade.[39m[0m
+[0m[32m[39m[0m
+[0m[32m```[39m[0m
+[0m[32mInfo Complémentaire :[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32mRetrouvez un exemple dans <#1357145977663913995>.[39m [0m[0mdans[0m[0m [32m📜 Rappel sur les raports[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> Official Intervention Report from Los Santos Sherif Departement[39m[0m
+[0m[32m# <:lssd:1348069462317990028> Official statement from the Detective Division, Lieutenant Lennon.[39m[0m
+[0m[32m[39m[0m
+[0m[32m## Informations générales[39m[0m
+[0m[32m**Plaignante **: `Victoria Davis`[39m[0m
+[0m[32m**Agent impliqué** : `Max Durand (LSPD)`[39m[0m
+[0m[32m**Lieu de l’incident** : `Route 12, autoroute`[39m[0m
+[0m[32m**Date et heure de l’incident **: `le 21/03/25 à 21h00`[39m[0m
+[0m[32m**Intervention des EMS** : `22h27`[39m[0m
+[0m[32m**Nature de la plainte** : `Accident impliquant un agent des forces de l’ordre`[39m[0m
+[0m[32m[39m[0m
+[0m[32m## Résumé des faits[39m[0m
+[0m[32mLe  21/03/25, à 21h00, sur la route 12 (autoroute), Madame Victoria Davis, titulaire d’un permis de conduire valide, se trouvait à bord d’un véhicule appartenant à un ami lorsqu’elle a été percutée par un agent de la LSPD, Max Durand.[39m[0m
+[0m[32m[39m[0m
+[0m[32mMadame Davis a reconnu qu’elle roulait légèrement au-dessus de la limite autorisée au moment des faits. Toutefois, lors de l’arrivée  des services d’urgence, aucun véhicule n’a été constaté sur place.[39m[0m
+[0m[32m[39m[0m
+[0m[32mÀ 22h27, les services d’urgence (EMS) sont interven...[39m [0m[0mdans[0m[0m [32mRapport d'Intervention[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> TEMPLATE POUR LES RAPPORTS <:lssd:1348069462317990028> [39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📝 Rapport d'arrestation[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1OOjmTT-O_0i4SfcHvQhJbWE0PhIkC9LS0ALsokD9TNM/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📚 Rapport de contravention[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1pmOgO6wPt7GmbzDUVkmL2Yh09z8bLs6v23uZ0ZiQpYo/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📎 Rapport d'Intervention[39m[0m
+[0m[32mVoir <#1357454670120878101>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 🖇️ Rapport d'Intervention Haute Internsité[39m[0m
+[0m[32mVoir ci-dessus.[39m [0m[0mdans[0m[0m [32m📜 Rappel sur les raports[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m```diff[39m[0m
+[0m[32m++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++ ++[39m[0m
+[0m[32m```[39m[0m
+[0m[32m[39m[0m
+[0m[32m# <:lssd:1348069462317990028> TEMPLATE POUR LES RAPPORTS <:lssd:1348069462317990028> [39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📝 Rapport d'arrestation[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1OOjmTT-O_0i4SfcHvQhJbWE0PhIkC9LS0ALsokD9TNM/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📚 Rapport de contravention[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1pmOgO6wPt7GmbzDUVkmL2Yh09z8bLs6v23uZ0ZiQpYo/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📎 Rapport d'Intervention[39m[0m
+[0m[32mVoir <#1357454670120878101>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 🖇️ Rapport d'Intervention Haute Internsité[39m[0m
+[0m[32mVoir ci-dessus.[39m [0m[0mdans[0m[0m [32m📜 Rappel sur les raports[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m# <:lssd:1348069462317990028> TEMPLATE POUR LES RAPPORTS <:lssd:1348069462317990028> [39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📝 Rapport d'arrestation[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1OOjmTT-O_0i4SfcHvQhJbWE0PhIkC9LS0ALsokD9TNM/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📚 Rapport de contravention[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1pmOgO6wPt7GmbzDUVkmL2Yh09z8bLs6v23uZ0ZiQpYo/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📎 Rapport d'Intervention[39m[0m
+[0m[32mVoir <#1357454670120878101>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 🖇️ Rapport d'Intervention Haute Internsité[39m[0m
+[0m[32mVoir ci-dessus.[39m [0m[0mdans[0m[0m [32m📜 Rappel sur les raports[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m# <:lssd:1348069462317990028> TEMPLATE POUR LES RAPPORTS <:lssd:1348069462317990028> [39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📝 Rapport d'arrestation[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1OOjmTT-O_0i4SfcHvQhJbWE0PhIkC9LS0ALsokD9TNM/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📚 Rapport de contravention[39m[0m
+[0m[32mhttps://docs.google.com/document/d/1pmOgO6wPt7GmbzDUVkmL2Yh09z8bLs6v23uZ0ZiQpYo/edit?usp=sharing[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 📎 Rapport d'Intervention[39m[0m
+[0m[32mVoir <#1357454670120878101>.[39m[0m
+[0m[32m[39m[0m
+[0m[32m## 🖇️ Rapport d'Intervention Haute Internsité[39m[0m
+[0m[32mVoir ci-dessus.[39m [0m[0mdans[0m[0m [32m📜 Rappel sur les raports[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans 📜 Rappel sur les raports[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-03T16:41:25.840Z [ERROR] (node:31652) Warning: Supplying "ephemeral" for interaction response options is deprecated. Utilize flags instead.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mregister[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mclear[39m [0m[0mdans[0m[0m [32mbot-dev-2[39m[0m
+[104m2025-04-03T16:41:25.840Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-03T21:24:35.338Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-03T21:24:34.786Z [DEBUG] Hi !![49m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-03T21:24:35.340Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0mCommandes existantes :  requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-03T21:24:34.786Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-03T21:24:36.545Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-03T21:24:36.545Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@295588993565720577>[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m
+[104m2025-04-03T21:24:34.786Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_REMOVE][39m [32mfrancois.piano[39m [0m[0ma supprimé[0m[0m [32m<@295588993565720577>[39m [0m[0mdans[0m[0m [32mdelit-de-fuite-31-mars[39m[0m

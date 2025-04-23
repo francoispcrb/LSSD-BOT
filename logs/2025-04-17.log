@@ -1,0 +1,131 @@
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mLes modules  [32mloggers[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mLes modules  [32mutils.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mL'interaction  [32mcommands.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mL'interaction  [32mbuttons.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mL'interaction  [32mmodals.js[39m [0m[0m ont correctement été exporté.[0m[0m[0m
+[42m[30m🔔2025-04-17T17:20:44.801Z [🟢 SOFT NOTIFY]  guildBanAdd.js,guildBanRemove.js,guildMemberAdd.js,guildMemberRemove.js,interactionCreate.js,messageCreate.js,messageDelete.js,messageUpdate.js,ready.js[39m[49m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m✅ Données rechargées depuis config.json : [object Object][0m
+[45m2025-04-17T17:20:44.616Z [DEBUG] Hi !![49m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[42m[30mChargement du fichier index.js[39m[49m[0m
+[41m[30m🔔2025-04-17T17:20:44.802Z [🔴 CRITICAL NOTIFY]  Hey![39m[49m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[42m[30mChargement des informations du package.[39m[49m[0m
+[0m[42m[30m[39m[49m [46m[PACKAGE][49m [32mAuth. : François 🌺[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDepd. : @discordjs/voice, axios, chalk, discord.js, fs, play-dl, yt-search, ytdl-core, ytdl-core-discord[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mDesc. : The official bot of LSSD.[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mLisc. : ISC[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mMain. : index.js[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mName. : catherine[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mScrp. : [object Object][39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mVers. : 1.2.1 - 1.2.09scho[39m[0m
+[0m[32m[39m [46m[PACKAGE][49m [32mPatch Note. : **[PN_13-03-2025]** La version 1.2.01sc modifie les messages shift et patch la commande /clear.,[39m[0m
+[0m[32m**[PN_14-03-2025]** La version 1.2.05sch modifie la commande /help pour ajouter des commandes spéciales.,[39m[0m
+[0m[32m**[PN_19-03-2025]** La version 1.2.1 (1.2.09scho) patch la commande /openservice et modifie la commande /userinfo, ajoutant des informations.[39m[0m
+[0m[32m[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[32m🚀 Démarrage du bot...[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[33m🔗 Connexion à Discord API...[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[36m✅ Bot RP en ligne ! Connect111é en tant que LSSD Bot#8045[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[34m==============================[39m[0m
+[0m[34m[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mGuild récupéré :  Los Santos Sheriff Dept.[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0mCommandes existantes :  createreport, div, role, checklog, viewdata, cleardata, requestroleinit, bypass, register, music, info, pex, openservice, infoshift, recruit, help, ban, ticket, shutdown, userinfo, send, clear, kick, warn, mute, rename, shift, promote[0m
+[43m2025-04-17T17:20:44.616Z [WARN] ⚠️ Commandes déjà enregistrées pour ce serveur.[49m
+[42m[30m🔔2025-04-17T17:20:45.937Z [🟢 SOFT NOTIFY]  Arguments passés : [33mAucun[39m[30m[39m[49m
+[42m[30m🔔2025-04-17T17:20:45.938Z [🟢 SOFT NOTIFY]  Aucun mode de lancement spécifié.[39m[49m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[COMAND][39m [32mfrancois.piano[39m [0m[0ma éxécuté la commande [0m[0m [32mopenservice[39m [0m[0mdans[0m[0m [32m👥-présence[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[42m✅ Utilisateur 449432156595552257 bypass les permissions.[49m[0m
+[41m2025-04-17T17:20:44.616Z [ERROR] (node:4112) Warning: Supplying "fetchReply" for interaction response options is deprecated. Utilize "withResponse" instead or fetch the response after using the method.[49m
+[41m(Use `node --trace-warnings ...` to show where the warning was created)[49m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m✅ Données stockées : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m✅ Données écrites dans config.json : {[0m
+[0m    "messageId": "1362478778995179722",[0m
+[0m    "participants": {[0m
+[0m        "yes": [],[0m
+[0m        "no": [],[0m
+[0m        "maybe": [][0m
+[0m    }[0m
+[0m}[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : no[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton no dans 1347963262892904469[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] mathiieeuu a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : maybe[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] rory.p71 a exécuté l'interaction bouton maybe dans 1347963262892904469[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🔵 Interaction détectée : yes[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 clientData trouvé : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message enregistré : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📌 ID du message de l'interaction : 1362478778995179722[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Avant modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Après modification des participants : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m🟢 Embed mis à jour : [object Object][0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] mrbobolt a exécuté l'interaction bouton yes dans 1347963262892904469[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmatharcane[39m [0m[0ma envoyé[0m[0m [32mhttps://thunderstore.io/c/repo/?ordering=top-rated&section=mods&page=2[39m [0m[0mdans[0m[0m [32m🗯 Général HRP[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mBonsoir,[39m[0m
+[0m[32m[39m[0m
+[0m[32mCi-dessous, la BodyCam du sergent M. Lewis montrant le début de l'arrestation de S. Whitaker[39m[0m
+[0m[32m[39m[0m
+[0m[32mhttps://youtu.be/WBsRWWWyaKw[39m [0m[0mdans[0m[0m [32mrapport-130425-sully-whitaker[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m@here qui a les clefs du ford explorer numéro 114 ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mjulinox[39m [0m[0ma envoyé[0m[0m [32mC khalil[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mnan[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mjulinox[39m [0m[0ma envoyé[0m[0m [32mT sur ta pas oulblié je les remmetres ?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mjulinox[39m [0m[0ma envoyé[0m[0m [32mParce que moi j'avais que le 275 et j'ai remis les clefs donc bon[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mna j ai verifier en jeu et j ai pas[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@978315768271880272> t'es où?[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkhalil35[39m [0m[0ma envoyé[0m[0m [32mJ ARIIVEEEEEEE[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32m<@248739383908368385> concernant tes armes ça a été rendue et les joueurs qui on fait ça on étaient sanctionné.[39m [0m[0mdans[0m[0m [32m💬-discussion-hrp[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mBonsoir monsieur <@1347944146496917505>,[39m[0m
+[0m[32m[39m[0m
+[0m[32mPouvez-vous confirmé votre présence au bureau de la division 11 de Sandy Shores concernant la convocation de monsieur T. Horde ainsi que de S. Whitaker ce jour à 23H30 ?[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined mathiieeuu dans procureur-général-keegan[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkazut.0[39m [0m[0ma envoyé[0m[0m [32mBonsoir, [39m[0m
+[0m[32mAprès l'attente devant le poste durent 30 min, j'ai pris libre de disposé car vous n'êtiez pas la. [39m[0m
+[0m[32m[39m[0m
+[0m[32mEn vous souhaitent bonne soirée.[39m [0m[0mdans[0m[0m [32mrapport-140425-tigrane-horde[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mLe procureur devait s'absenter en raison d'un retard de son vol.[39m [0m[0mdans[0m[0m [32mrapport-140425-tigrane-horde[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mje suis en route[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mJe suis en route.[39m [0m[0mdans[0m[0m [32mrapport-140425-tigrane-horde[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mJe pense que c'est mieux de remettre ça à demain.[39m [0m[0mdans[0m[0m [32mrapport-140425-tigrane-horde[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mC'est fait pour lui.[39m [0m[0mdans[0m[0m [32mrapport-140425-tigrane-horde[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mVoulez vous toujours procédé à la convocation des deux hommes malgré votre ratard ?[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mM. Whitaker devrait être là.[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mIl était là pour 23h30 je crois[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mil doit être parti là[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mIl devrait revenir[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mOk.[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mIl n'était pas présent pour 23h30.[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m$[MESSAGE UPTATED] null a été modifié par undefined francois.piano dans procureur-général-keegan[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mAh ? Il semblait dire que si[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mmathiieeuu[39m [0m[0ma envoyé[0m[0m [32mIl y a avait uniquement mr Horde[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mAh oui, je parlais bien de Horde là[39m [0m[0mdans[0m[0m [32mprocureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton role_doj dans 1354870971257061447[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton role_doj dans 1354870971257061447[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[ACTION BUTTON] plainte of command /ticket has been used.[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📩 Affichage du modal...[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton plainte dans 1252239174610718782[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[ACTION BUTTON] recruit of command /ticket has been used.[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m📩 Affichage du modal...[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[BUTTON] francois.piano a exécuté l'interaction bouton recruit dans 1252239174610718782[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mDu coup, vous êtes bien avec M. Horde?[39m [0m[0mdans[0m[0m [32m📨procureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32m<@1347944146496917505>[39m [0m[0mdans[0m[0m [32m📨procureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mNon, Whitaker[39m [0m[0mdans[0m[0m [32m📨procureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mkeegan_rp[39m [0m[0ma envoyé[0m[0m [32mJ'arrive à sandy shores, le temps de me changer[39m [0m[0mdans[0m[0m [32m📨procureur-général-keegan[39m[0m
+[104m2025-04-17T17:20:44.616Z [CLIENT DISCORD] [49m[0m[94m[MESSAGE_SENT][39m [32mfrancois.piano[39m [0m[0ma envoyé[0m[0m [32mOk mais vous aviez rendez-vous avec Horde ce soir il me semble ?[39m [0m[0mdans[0m[0m [32m📨procureur-général-keegan[39m[0m
