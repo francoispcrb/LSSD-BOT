@@ -1005,9 +1005,6 @@ try {
                 if (interaction.commandName === 'clear') { // DONE
                     const amount = interaction.options.getInteger('amount');
                 
-                    if (!interaction.member.permissions.has(PermissionsBitField.Flags.Administrator)) {
-                        return interaction.reply({ content: "❌ Vous n'avez pas la permission d'utiliser cette commande.", ephemeral: true });
-                    }
             
                     if (amount < 1 || amount > 100) {
                         return interaction.reply({ content: "⚠️ Veuillez spécifier un nombre entre 1 et 100.", ephemeral: true });

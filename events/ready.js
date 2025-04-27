@@ -7,7 +7,8 @@ const config = require('../config/config.json');
 const utils = require('../utils');
 const path = require('path');
 const { processArgs } = require("../functions");
-
+const readline = require('readline')
+const { EmbedBuilder } = require('discord.js');
 module.exports = {
     name: 'ready',
     async execute(Client) {
@@ -17,6 +18,65 @@ module.exports = {
         console.log(chalk.cyan(`✅ Bot RP en ligne ! Connect111é en tant que ${Client.user.tag}`));
         console.log(chalk.blue("==============================\n"));
 
+        console.log(`🤖 Connecté en tant que ${Client.user.tag}`);
+
+        const rl = readline.createInterface({
+            input: process.stdin,
+            output: process.stdout,
+            prompt: '> '
+        });
+
+        rl.prompt();
+
+        rl.on('line', async (input) => {
+            if (!input.startsWith('>send')) {
+                rl.prompt();
+                return;
+            }
+
+            try {
+                // Extrait la commande
+                const args = input.slice(5).trim(); // retire ">send"
+                const parts = args.split(' ');
+
+                const type = parts[0];
+                const channelId = parts[1];
+                const contentParts = parts.slice(2).join(' ').split('|');
+                const message = contentParts[0].trim();
+                const title = contentParts[1] ? contentParts[1].trim() : null;
+
+                if (!['embed', 'text'].includes(type)) {
+                    console.log('❌ Type invalide. Utilise "embed" ou "text".');
+                    rl.prompt();
+                    return;
+                }
+
+                const channel = await Client.channels.fetch(channelId).catch(() => null);
+                if (!channel || !channel.isTextBased()) {
+                    console.log('❌ Salon introuvable ou non textuel.');
+                    rl.prompt();
+                    return;
+                }
+
+                if (type === 'embed') {
+                    const embed = new EmbedBuilder()
+                        .setDescription(message)
+                        .setColor('Random');
+
+                    if (title) embed.setTitle(title);
+
+                    await channel.send({ embeds: [embed] });
+                    console.log('✅ Embed envoyé !');
+                } else {
+                    await channel.send(message);
+                    console.log('✅ Message texte envoyé !');
+                }
+            } catch (err) {
+                console.error('Erreur lors de l\'envoi du message :', err);
+            }
+
+            rl.prompt();
+        });
 
         const GUILD_ID = config.server.test.id;
 
