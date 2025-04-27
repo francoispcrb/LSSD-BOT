@@ -5,6 +5,7 @@ const fs = require('fs');
 const Client = new Discord.Client({intents});
 const config = require('./config/config.json');
 const { loader, patchSendMethod } = require('./functions');
+const keepAlive = require('./keep_alive')
 
 require('./loggers');
 
